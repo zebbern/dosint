@@ -1,0 +1,10 @@
+requests
+proxybroker
+google
+termcolor
+txtorcon
+colorama
+bs4
+StringGenerator
+pysocks
+certifi
