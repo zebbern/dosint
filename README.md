@@ -1,7 +1,7 @@
 # DOSINT
 
 DOSINT is an efficient OSINT (Open-Source Intelligence) tool designed for conducting various forms of dorking and reconnaissance. 
-It streamlines information discovery through Google, SCADA-focused queries, Tor searches, and proxy-based reconnaissance—all within a single tool.
+It streamlines information discovery through Google, SCADA-focused queries, Tor searches, and proxy-based reconnaissance all within a single tool.
 
 ## Features
 
