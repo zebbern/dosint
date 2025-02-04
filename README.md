@@ -66,8 +66,7 @@ optional arguments:
   ```
   Searches the dark web via Tor onion search engines.
 
-## Disclaimer
-
+> [!WARNING]
 This tool is provided for **educational and authorized security testing purposes only**.  
 Users must **obtain proper authorization** before scanning or performing reconnaissance activities.  
-Misuse of this tool may violate laws and regulations—use responsibly.
+Misuse of this tool may violate laws and regulations use responsibly.
