@@ -1,0 +1,7 @@
+"FirstName LastName" (site:linkedin.com OR site:twitter.com OR site:facebook.com OR site:instagram.com OR site:github.com OR site:reddit.com OR site:researchgate.net OR site:quora.com OR site:imgur.com OR site:medium.com) -intitle:"profile" -inurl:"/profile" -inurl:"/tagged"
+"Fornavn Etternavn" (site:linkedin.com OR site:twitter.com OR site:facebook.com OR site:instagram.com OR site:github.com OR site:kvinneguiden.no OR site:diskusjon.no OR site:imgur.com OR site:reddit.com OR site:quora.com OR site:researchgate.net) -intitle:"profil" -inurl:"/profil" -inurl:"/tagged"
+site:instagram.com "firstname lastname" -inurl:user
+site:facebook.com "former employee"
+site:instagram.com "Name Or Username" -inurl:user
+site:instagram.com "employee life"
+site:twitter.com "@company" "leak"

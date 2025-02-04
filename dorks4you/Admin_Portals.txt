@@ -1,0 +1,92 @@
+"bp blog admin" intitle:login | intitle:admin -site.com
+Google Dork: inurl:"admin/login" site.com
+filetype:jsp inurl:"admin"
+filetype:sql site.com and "insert into" admin "2014"
+intitle:"Django site admin" inurl:admin -site.com -site.com
+intitle:"admin console" inurl:login site.com -site.com -help -guide -documentation -release -notes -configure -support -price -cant
+intitle:"admin login" site.com
+intitle:"php icalendar administration" -site.com
+intitle:"phpLiteAdmin" inurl:"phpliteadmin.php"
+intitle:osCommerce inurl:admin intext:"redistributable under the GNU" intext:"Online Catalog" -demo -site.com
+intitle:osCommerce inurl:admin intext:"redistributable under the GNU"intext:"Online Catalog" -demo -site.com
+inurl /admin/login intitle panel admin site.com
+inurl:"*admin|login" site: gov
+inurl:"/admin" "Django site admin"
+inurl:"/admin/login.html"
+inurl:"/admin/login.php" intext:"Username"
+inurl:"/admin/mysql"
+inurl:"/admin_area/" intitle:"Control Panel"
+inurl:"/admin_console" intitle:"Administration Console"
+inurl:"/admin_keys/"
+inurl:"/admin_panel/" -github
+inurl:"/dbadmin/" "Database Administration"
+inurl:"/e107_admin/"
+inurl:"/myadmin/"
+inurl:"/php-pg-admin/" "PostgreSQL"
+inurl:"/phpmyadmin/" intext:"Create new database"
+inurl:"/redis-admin"
+inurl:("admin/password.php") +site.com
+inurl:("administrator/login.aspx" OR "admin/login.aspx") +site.com
+inurl:.html.php:intext:"admin"|intext:"user"|intext:"login":site.com
+inurl:conf | inurl:env | inurl:cgi | inurl:bin | inurl:etc | inurl:root | inurl:sql | inurl:backup | inurl:admin | inurl:php site:example[.]com
+inurl:http://example.com intext:admin ext:sql inurl:admin
+site.com "admin password"
+site.com admin grades
+site.com http intitle: admin
+site.com intext:"administrator:500:"
+site.com intext:admin.password
+site.com intitle:"admin login"
+site.com intitle:"index of" *.admin
+site.com intitle:"index of" *.admin.password
+site.com inurl: admin login
+site.com inurl: admin/index.php
+site.com inurl:("administrator/login.php" OR "admin/login.php")
+site.com inurl:/admin/login
+site.com inurl:admin
+site.com inurl:admin login
+site.com inurl:axis2-admin
+site.com inurl:wp-admin
+site: site.com intext: admin
+site:eksempelside.no inurl:"/phpmyadmin/"
+site:eksempelside.no inurl:admin
+site:eksempelside.no inurl:wp-admin
+site:monolittenil.no intext: admin
+site:site.com (intext:"contact us" OR intext:"support" OR intext:"helpdesk" OR intext:"admin@site.com" OR intext:"@site.com")
+site:site.com (inurl:login OR inurl:admin OR inurl:signin OR inurl:signup OR inurl:register OR inurl:user OR inurl:account OR inurl:auth OR inurl:portal OR inurl:access)
+site:site.com (inurl:phpmyadmin OR inurl:adminer OR inurl:dbadmin OR inurl:sql OR inurl:database OR inurl:db OR inurl:sql OR inurl:admin) (intext:"root" OR intext:"administrator" OR intext:"user" OR intext:"password")
+site:site.com (inurl:robots.txt OR inurl:sitemap.xml OR inurl:sitemap_index.xml OR inurl:admin-sitemap.xml OR inurl:internal-sitemap.xml)
+site:targetdomain.com (intext:"contact us" OR intext:"support" OR intext:"helpdesk" OR intext:"admin@targetdomain.com" OR intext:"@targetdomain.com")
+site:targetdomain.com (intitle:"Admin Console" OR intitle:"Dashboard" OR intitle:"Administrator" OR intitle:"Management Console" OR intitle:"System Settings" OR inurl:config OR inurl:manage OR inurl:adminpanel OR inurl:controlpanel)
+site:targetdomain.com (inurl:login OR inurl:admin OR inurl:signin OR inurl:signup OR inurl:register OR inurl:user OR inurl:account OR inurl:auth OR inurl:portal OR inurl:access)
+site:targetdomain.com (inurl:phpmyadmin OR inurl:adminer OR inurl:dbadmin OR inurl:sql OR inurl:database OR inurl:db OR inurl:sql OR inurl:admin) (intext:"root" OR intext:"administrator" OR intext:"user" OR intext:"password")
+site:targetdomain.com (inurl:robots.txt OR inurl:sitemap.xml OR inurl:sitemap_index.xml OR inurl:admin-sitemap.xml OR inurl:internal-sitemap.xml)
+"admin login" intitle:dashboard site:site.com
+inurl:"/admin.php" intitle:"Admin Panel" site:site.com
+inurl:"/controlpanel" intitle:"Admin Login" site:site.com
+inurl:"/admin_area" "username" "password" site:site.com
+intitle:"administrator login" inurl:"admin" site:site.com
+intitle:"admin console" intext:"login required" site:site.com
+inurl:"/admin_dashboard" "username" site:site.com
+inurl:"/manager/html" intitle:"Tomcat Web Application Manager"
+inurl:"/admin/config" intext:"setup" site:site.com
+filetype:log "admin login failed" site:site.com
+intitle:"admin" intext:"panel" inurl:admin site:site.com
+inurl:"/admin/" "user login" site:site.com
+intitle:"login" inurl:"admin" -github -gitlab site:site.com
+inurl:"admincp" intext:"control panel" site:site.com
+inurl:"/admin/settings" "account" site:site.com
+filetype:txt "admin" "username" "password"
+intitle:"admin access" inurl:"/admin" site:site.com
+intitle:"dashboard" inurl:"admin.php" site:site.com
+inurl:"/admin.html" intitle:"Admin Login" site:site.com
+inurl:"/admin_control" intext:"session timeout" site:site.com
+intitle:"admin interface" inurl:"/login" site:site.com
+filetype:xml "admin credentials" site:site.com
+inurl:"/admin-tools" intext:"restricted access" site:site.com
+intitle:"site administration" inurl:"admin" site:site.com
+filetype:cfg "admin password" site:site.com
+intitle:"admin login" inurl:"/panel" site:site.com
+filetype:ini "admin" "password" site:site.com
+inurl:"/admin-console" intitle:"System Admin" site:site.com
+intitle:"admin portal" inurl:"login" -guide -help -docs site:site.com
+intitle:"web admin" inurl:"/login" intext:"admin@site.com"

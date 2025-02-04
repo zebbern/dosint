@@ -1,0 +1,1027 @@
+site:http://pastebin.com "keyword"
+site:site.com intext:"sql syntax near" OR intext:"syntax error" OR intext:"unexpected end of SQL" OR intext:"Warning: mysql_" OR intext:"pg_connect()" OR intext:"error in your SQL syntax" OR intext:"OLE DB Provider for SQL Server"
+inurl:"testsite.no" infohere
+intitle:"index of /.git”
+ext:php intext:"-rwxr-xr-x" site.com
+site.com intitle:"index of" *.db
+site.com -inurl:https://
+inurl:citrix inurl:login.asp -site.com
+filetype:bak inurl:"*.bak"
+inurl:"remote.php/webdav" -site.com
+inurl:"/index.php?view="
+inurl:gitlab "keyword"
+@Blogger Name Or Username
+inurl:"folderview?id=" site.com
+intext:"SECRET_KEY=" site.com
+site:eksempelside.no filetype:xlsx OR xls
+site.com inurl:"known_hosts" "ssh-rsa"
+site:http://codepen.io "keyword"
+site.com inurl:tc3000
+filetype:conf intext:"redis_password"
+inurl:"/graphql" intext:"GraphQL Playground"
+inurl:"/test/" intitle:"Index of"
+"Fornavn Etternavn" (site:uia.no OR site:ntnu.no OR site:uib.no OR site:forskningsradet.no OR site:jstor.org OR site:researchgate.net OR "publikasjon" OR "forsker")
+filetype:sql site.com and "insert into" admin "2014"
+sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html -site.com
+site: edu|org + inurl:"faculty_login.asp | .php"
+filetype:conf intext:"ldap_password"
+site.com intext:password intext:@gmail.com | @yahoo.com | @hotmail.com
+site:angel.co "worked at" "company"
+-site.com -"The PHP Group" inurl:source inurl:url ext:pHp
+ext:pem "PRIVATE KEY" -site.com -example -test*
+~Name here
+site:http://productforums.google.com "keyword"
+intitle:"Index of" ".bash_history"
+site:twitter.com "@company" "leak"
+person x.com 400x400
+"site.com" "Forgot Password"
+intitle:"Apache Flink Web Dashboard" inurl:"/#/overview"
+intitle:"php icalendar administration" -site.com
+intext:"confidential" "financial results"
+site.com "CrushFTP WebInterface"
+intitle:"Philex 0.2*" -s?ri?t -site.com
+filetype:jsp inurl:"admin"
+filetype:ovpn intext:"<ca>"
+@Clubhouse Name Or Username
+inurl:"/nosql" "database"
+site:targetdomain.com (inurl:phpmyadmin OR inurl:adminer OR inurl:dbadmin OR inurl:sql OR inurl:database OR inurl:db OR inurl:sql OR inurl:admin) (intext:"root" OR intext:"administrator" OR intext:"user" OR intext:"password")
+intitle:index.of inurl:openwebmail -site.com
+intitle:"pictures thumbnails" site.com
+site:eksempelside.no ext:log
+inurl:http | inurl:url= | inurl:path= | inurl:dest= | inurl:html= | inurl:data= | inurl:domain= | inurl:page= inurl:& site:[http://example.com](http://example.com/)
+site.com inurl:elb.amazonaws.com
+filetype:db "sqlite"
+intitle:dupics inurl:(add.asp | default.asp | view.asp | voting.asp) -site.com
+site.com intext:"unattend xmlns" AND "password" ext:xml
+site.com intitle:WordPress Installation
+i have multiple google dorking commands i want you to put in different documents so they are categorised right i dont want you to remove any of my google dorks i just want you to sort all the dorks  into lists that fits their purpose u can edit the website link on them to say example.com but thats really it. sort them to the right categories on how they would be used i just want them sorted  u can give a really short description other than that sort them.
+filetype:cfg inurl:"proftpd.conf"
+intitle:"Index of" "site.sql.gz"
+intext:"Powered By OpenCart" -site.com -inurl:"Powered By OpenCart" -intitle:"OpenCart" -intitle:"powered by"
+site.com "rfp" filetype:pdf
+site:targetdomain.com (intext:"contact us" OR intext:"support" OR intext:"helpdesk" OR intext:"admin@targetdomain.com" OR intext:"@targetdomain.com")
+site:targetdomain.com (inurl:.git OR inurl:.svn OR inurl:gitlab OR inurl:github OR inurl:gitbucket OR inurl:bitbucket OR inurl:repo OR inurl:source) (ext:php OR ext:asp OR ext:jsp OR ext:js OR ext:py OR ext:rb OR ext:java OR ext:c OR ext:cpp)
+intext:"employee directory" filetype:xlsx
+inurl:".env" "DB_USERNAME" ext:env
+site.com intitle:"phpinfo()"
+filetype:pdf OR docx OR xls site:eksempelside.no
+site.com index of: *.exe
+intitle:osCommerce inurl:admin intext:"redistributable under the GNU" intext:"Online Catalog" -demo -site.com
+intitle:"Index of" "key.pem"
+inurl:"/aws/credentials" filetype:txt
+intitle:"Index of" "db_connect.php"
+site.com /preview intext:movie inurl:flv | wmv | mp4 -pdf -edit -view
+"index of /private" site.com
+inurl:"/vulnerabilities/exec/" intitle:"Damn Vulnerable Web Application"
+inurl:url= | inurl:return= | inurl:next= | inurl:redirect= | inurl:redir= | inurl:ret= | inurl:r2= | inurl:page= inurl:& inurl:http site:http://example.com
+intitle:"Index of /" site:eksempelside.no
+"FirstName LastName" ("+1 123 456 7890" OR "(123) 456-7890" OR "phone number" OR "contact number" OR "location" OR "address")
+site.com intitle:"index of" /ipa
+person tiktok.com 720x720
+inurl:"/private.pem" intext:"BEGIN PRIVATE KEY"
+intitle:"Index of" "database.dump"
+site:http://ycombinator.io "keyword"
+*.* inurl:*.* search anything here
+site:eksempelside.no "phpinfo()"
+intext:"budget forecast" filetype:xls
+site:github.com inurl:"id_rsa" -inurl:"pub"
+inurl:"/shell.php"
+s3 site.com filetype:log
+inurl:"/research/" intitle:"Index of"
+site.com intext:"login" intitle:"server login"
+.*\.test\.com$
+site.com intitle:Dashboard
+"Fornavn.Etternavn@domen.no" OR "kontakt epost" OR intext:"email" + "Fornavn Etternavn" OR "epostadresse" OR intext:"@gmail.com" OR intext:"@hotmail.com" OR intext:"@yahoo.com" OR intext:"brukernavn"
+@TikTok Name Or Username
+filetype:log intext:"session_id"
+inurl:"/elmah.axd" intext:"Error Log"
+inurl:"/_search" intext:"elastic"
+site:site[.]no
+intext:"API KEY" site.com
+"Powered by WowBB" -site.com
+inurl:test | inurl:env | inurl:dev | inurl:staging | inurl:sandbox | inurl:debug | inurl:temp | inurl:internal | inurl:demo site:http://example.com
+site:targetdomain.com (intext:"powered by WordPress" OR intext:"powered by Joomla" OR intext:"powered by Magento" OR intext:"Drupal") (intext:"version 3." OR intext:"version 4." OR intext:"v1" OR intext:"v2")
+inurl:"/oauth/authorize"
+site:github.com ext:php "access_token"
+site:targetdomain.com (inurl:upload OR inurl:downloads OR inurl:filemanager OR inurl:uploads OR inurl:download) (intext:"upload your file" OR intext:"upload files" OR intext:"file manager")
+inurl:"/chatlogs/" filetype:txt
+inurl:"/event.php?id="
+/inurl:upload site.com ~password
+intext:"private_key=" site.com
+site.com intext:"-----BEGIN CERTIFICATE-----"
+site:targetdomain.com (inurl:checkout OR inurl:payment OR inurl:cart OR inurl:order OR inurl:invoice) (intext:"credit card" OR intext:"secure payment" OR intext:"order confirmation")
+inurl:http://example.com allintext:"API_SECRET*" ext:env | ext:yml
+site:github.com ext:php "x-api-key"
+inurl:id= | inurl:pid= | inurl:category= | inurl:cat= | inurl:action= | inurl:sid= | inurl:dir= inurl:& site:[http://example.com](http://example.com/)
+site.com inurl:/wp-contents/
+intitle:"Index of" "userlist.csv"
+ext:asp inurl:DUgallery intitle:"3.0" -site.com
+inurl:"/backup_configs/" intitle:"Index of"
+site:http://bitbucket.org "keyword"
+filetype:log intext:"Authorization"
+site:hackerone.com inurl:reports "example bug"
+site.com inurl:jira login
+inurl:https://trello.com AND intext:@gmail.com AND intext:password
+intext:"Name Or Username"
+inurl:haproxy-status site.com
+inurl:"/livechat" intitle:"Chat Support"
+site:github.com ext:php "api-token"
+site:.site.com (inurl:/signin OR inurl:/login OR inurl:/register)
+site:site.com (inurl:config OR inurl:configuration OR inurl:settings OR inurl:setup OR inurl:env OR inurl:database OR inurl:docker OR inurl:kubernetes) (ext:xml OR ext:json OR ext:yaml OR ext:ini OR ext:env OR ext:conf OR ext:bak OR ext:cfg OR ext:properties)
+site:eksempelside.no inurl:wp-admin
+site:targetdomain.com (intext:"dummy data" OR intext:"sample data" OR intext:"test data" OR intext:"lorem ipsum" OR intext:"placeholders")
+"Warehouse Management System" Ext:pdf site.com
+intitle:"index of" inurl:ftp
+site.com ext:php inurl:?
+filetype:ppk intext:"PuTTY-User-Key-File-2"
+"Fornavn Etternavn" (site:eventbrite.com OR site:meetup.com OR site:yelp.com OR "anmeldelse" OR "sted" OR "besøkte")
+site.com intitle:"cpanel"
+7. site:linkedin.com firstname lastname
+filetype:cnf my.cnf -sample
+`site.no inurl
+"FirstName LastName" (site:pastebin.com OR site:justpaste.it OR "*@gmail.com password" OR "username:password")
+9. "firstname lastname" *
+intitle:"Index of" "composer.json"
+inurl:"/help.jsp" intext:"Help Center"
+site:github.com ext:php "access-token"
+inurl:apidocs | inurl:api-docs | inurl:swagger | inurl:api-explorer site:"[http://example.com (http://example.com/)
+filetype:pem intext:"BEGIN DSA PRIVATE KEY"
+site:yammer.com "company discussions"
+intitle:"Index of" "ftpconfig"
+filetype:sql "dump"
+inurl:"/login.action" intext:"Atlassian"
+inurl:"/ldap.conf"
+inurl:"/CouchDB/"
+site.com intitle:"sign in"
+inurl:"/dump" "MongoDB" filetype:json
+inurl:linkedin.com/in Name Or Username
+site:target.com inurl:/\.git/config intext:"[remote]" | intext:"[branch]"
+site:evernote.com "passwords"
+inurl:"ibase site.com
+intext:"credit card numbers" filetype:xlsx
+filetype:yml intext:"auth:"
+site.com "Web File Manager"
+filetype:py inurl:"settings.py" intext:"SECRET_KEY"
+"passport" filetype:xls site.com | site.com | site.com | site.com | site.com | site.com
+@Facebook Name Or Username
+site:site.com (inurl:reset OR inurl:forgotpassword OR inurl:recover OR inurl:passwordreset OR inurl:unlock) (intext:"recover your password" OR intext:"reset your password")
+site.com inurl:wp-admin
+site:reddit.com "company layoff"
+"index of /private" -site.com -site.com -site.com
+site:facebook.com "former employee"
+site:site.com (inurl:github OR inurl:bitbucket OR inurl:gitlab OR inurl:svn OR inurl:source) (intext:"repository" OR intext:"src" OR intext:"source" OR intext:"fork me on GitHub" OR intext:"clone this repo")
+inurl:"/comments.php?id="
+intext:"ElasticSearch" "cluster"
+ext:asp "powered by DUForum" inurl:(messages|details|login|default|register) -site.com
+inurl:"/admin_keys/"
+site:site.com (intext:"SQL syntax error" OR intext:"unexpected end of SQL" OR intext:"Warning: mysql_" OR intext:"MySQL server version" OR intext:"error in your SQL syntax" OR intext:"Invalid query" OR intext:"supplied argument is not a valid MySQL" OR intext:"Unclosed quotation mark after" OR intext:"Microsoft OLE DB Provider for SQL Server" OR intext:"java.sql.SQLException" OR intext:"Query failed" OR intext:"You have an error in your SQL syntax")
+"Powered by FUDForum 2.6" -site.com -johnny.ihackstuff
+site:http://codeshare.io "keyword"
+site.com inurl:"id_rsa" -inurl:"pub"
+inurl:"/config.php~"
+inurl:"/display.php?ID="
+site.com intext:cheatsheet+offensive+pentesting
+inurl:/database* ext:sql intext:index of -site.com
+intext:"Powered by PCPIN.com" -site.com -ihackstuff -"works with" -findlaw
+inurl:webcam site.com inurl:roma
+@SoundCloud Name Or Username
+site:target.com ext:php | ext:jsp | ext:asp
+site:site.com (inurl:../ OR inurl:%2e%2e%2f OR inurl:%252e%252e%252f OR inurl:/../../ OR inurl:/..%2f)
+site: target.com ext:action | ext:struts | ext:do
+site.com intext:"define(WP_ALLOW_REPAIR,true);"
+inurl:"/manage" intitle:"Management Portal"
+intext:"internal use only" filetype:xls
+"Obtenez votre forum Aztek" -site.com
+"FirstName LastName" (site:reddit.com OR site:quora.com OR site:stackexchange.com OR "commented by" OR "mentioned in forum" OR "posted by")
+intitle:"Index of" "id_dsa"
+`site.no "regnskap"
+inurl:http://example.com intext:admin ext:sql inurl:admin
+inurl:"/certs/" ext:pfx
+site:github.com ext:php "x_api_token"
+"Powered by Duclassified" -site.com "DUware All Rights reserved"
+phonebook:Name here
+"Fornavn Etternavn" (site:proff.no OR site:gulesider.no OR site:180.no) intext:"daglig leder" OR intext:"styremedlem" OR intext:"bedrift" OR intext:"organisasjonsnummer"
+site:targetdomain.com (inurl:../ OR inurl:%2e%2e%2f OR inurl:%252e%252e%252f OR inurl:/../../ OR inurl:/..%2f)
+site:target.com intext:"Choose file"
+site.com intext:"index of" "payroll"
+site:eksempelside.no intext:"username" intext:"password"
+inurl:"/svn/" ext:svn-base
+intext:("UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.2"|"UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.3") intext:"You * not logged *" -site.com
+inurl:"/swagger-ui.html" intext:"Swagger UI"
+inurl:http://example.com intitle:"index of /" "*key.pem"
+inurl:"/aws_tokens/" ext:csv
+intitle:"index of" "redis.conf"
+site.com inurl:login
+inurl:"port=27017"
+site.com intitle:"index of"
+inurl:"/local.settings.json" intext:"AzureWebJobsStorage"
+s3 site.com filetype:xls login
+"CF-Host-Origin-IP" "CF-Int-Brand-ID" "CF-RAY" "CF-Visitor" "github" -site.com -site.com
+site:github.com ext:py "https://api.openai.com/v1/models" "Authorization: Bearer"
+inurl:"/phpmyadmin/" intext:"Create new database"
+site:gitlab.com ext:php "api-key"
+inurl:"/advanced_search.php"
+db_password filetype:env -site.com -git
+filetype:json intext:"credentials"
+site:[http://example.com](http://example.com/)
+inurl:"/news.php?id="
+intext:"Powered by GetSimple" -site.com
+inurl:"/db_dumps/" intitle:"Index of"
+inurl:"/secrets.tar"
+site:slideshare.net "employee training"
+inurl:/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy/
+filetype:ini intext:"aws_secret"
+inurl:"/book.php?id="
+inurl:"/archive/" intitle:"Index of"
+"Powered by Merak Mail Server Software" -.gov -.mil -.edu -site.com -johnny.ihackstuff
+filetype:txt inurl:"error.log"
+inurl:"/mongo-express"
+site:targetdomain.com (inurl:backup OR inurl:bak OR inurl:old OR inurl:archive OR inurl:temp OR inurl:snapshot OR inurl:backup OR inurl:revisions OR inurl:autosave OR inurl:recovery) (ext:zip OR ext:rar OR ext:tar OR ext:gz OR ext:bak OR ext:old OR ext:tmp OR ext:sav)
+inurl:"/access_tokens/"
+inurl:/content/usergenerated | inurl:/content/dam | inurl:/jcr:content | inurl:/libs/granite | inurl:/etc/clientlibs | inurl:/content/geometrixx | inurl:/bin/wcm | inurl:/crx/de site:[http://example.com](http://example.com/)
+site.com intitle:"Admin Login"
+inurl:"/admin" "Django site admin"
+telefon intext:navn
+site:instagram.com "employee life"
+inurl:"s3.amazonaws.com" intext:"ListBucketResult"
+filetype:cfg "couchdb"
+site:http://libraries.io "keyword"
+filetype:ini inurl:"config.ini" intext:"password"
+site:http://google.com "keyword"
+site:slideshare.net "company overview" "internal"
+site:http://example.com ext:txt | ext:pdf | ext:xml | ext:xls | ext:xlsx | ext:ppt | ext:pptx | ext:doc | ext:docx intext:“confidential” | intext:“Not for Public Release” | intext:”internal use only” | intext:“do not distribute”
+inurl:composer.json codeigniter -site.com
+inurl:"/viewforum.php?id="
+inurl:"/config/" intitle:"Index of"
+inurl:nginx.conf nginx site.com
+site:medium.com "company update"
+s3 site.com filetype:sql
+site.com intitle:"Admin Cp"
+indexof:backup/web.config
+site:docs.google.com "Company Internal"
+site:.site.com (intext:Login OR intext:Register or intext:Create Account)
+site.com inurl:login.action
+site.com intitle:That.Site.Running Apache
+inurl:"/websql/" "Web SQL"
+filetype:pdf intext:"FirstName LastName" intext:"coordinates" OR intext:"geotag" OR intext:"location data" OR intext:"position"
+intitle:"Freifunk.Net - Status" -site.com
+site.com intext:"index of" "logs"
+site.com inurl:(elmah.axd | errorlog.axd) ext:axd
+(inurl:"ars/cgi-bin/arweb?O=0" | inurl:arweb.jsp) -site.com -site.com
+inurl:fisheye AND inurl:changelog -site.com -site.com -intext:"Log in to FishEye"
+filetype:bak intext:"password"
+intitle:"Index of" "credentials.xlsx"
+rdbqds -site.com -site.com -site.com
+inurl:"/current_config/" intitle:"Index of"
+intitle:"admin login" site.com
+6. site:linkedin.com/in/ "FirstName LastName"
+site:site.com (inurl:js OR ext:js) (intext:"var api_key" OR intext:"var token" OR intext:"const authToken" OR intext:"let password" OR intext:"const clientId" OR intext:"let secret")
+site:dev.azure.com inurl:"_git" "Index of"
+site:targetdomain.com (inurl:robots.txt OR inurl:sitemap.xml OR inurl:sitemap_index.xml OR inurl:admin-sitemap.xml OR inurl:internal-sitemap.xml)
+inurl:*.* Name Or Username
+intitle:"PowerDownload" ("PowerDownload v3.0.2 Ãƒâ€šÃ‚Â©" | "PowerDownload v3.0.3 Ãƒâ€šÃ‚Â©" ) -site.com
+inurl:"/forgot_password" intext:"Reset Password"
+site.com inurl: admin login
+inurl:.html.php:intext:"admin"|intext:"user"|intext:"login":site.com
+site:"example[.]com" ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess | ext:json
+site:site.com (intext:"powered by WordPress" OR intext:"powered by Joomla" OR intext:"powered by Magento" OR intext:"Drupal") (intext:"version 3." OR intext:"version 4." OR intext:"v1" OR intext:"v2")
+intitle:"index of /" "SSN"  inurl:private
+person instagram.com 150x150
+ext:sql intext:"-- phpMyAdmin SQL Dump" -site.com
+ext:txt | ext:pdf | ext:xml | ext:xls | ext:xlsx | ext:ppt | ext:pptx | ext:doc | ext:docx intext:“confidential” | intext:“Not for Public Release” | intext:”internal use only” | intext:“do not distribute”
+inurl:"/id_rsa.bak"
+site:eksempelside.no intext:"powered by WordPress"
+site:http://npmjs.com "keyword"
+site.com intext:admin.password
+site.com intitle:Index of
+index.of:"pcap" -site.com -site.com
+site:site.com (intext:"confidential" OR intext:"internal use only" OR intext:"do not share" OR intext:"for employees only" OR intext:"restricted access" OR intext:"proprietary information")
+intitle:MK-AUTH :: CONTEUDO RESTRITO -site.com
+intext:"phpMyAdmin" "Welcome to" "language"
+intitle:"welcome to netware *" -site.com
+site:targetdomain.com (intext:"confidential" OR intext:"internal use only" OR intext:"do not share" OR intext:"for employees only" OR intext:"restricted access" OR intext:"proprietary information")
+filetype:bak inurl:"/database/"
+inurl:"/gallery.php?id="
+inurl:"/mariadb"
+inurl:"/index.php?page="
+inurl:"/docker-compose.yml" intext:"aws"
+site.com inurl:axis2-admin
+site:github.com ext:php "api_token"
+"inurl:php?id=" site.com
+name: *Name here*
+inurl:/login/index.jsp -site.com
+filetype:sh intext:"password="
+intext:"Egardia & WoonVeilig" -site.com -"data-lead.com" -"getemail.io" -"holaconnect.com" -"kzhead.info"
+site:target.com intitle:"Index of /"
+site.com filetype:md | filetype:js | filetype:txt "xoxp-"
+dudownload" -site.com
+inurl:"/profile.php?user="
+inurl:"/debug/vars"
+site:http://coggle.it "keyword"
+insite: SmarterMail Enterprise 7.1
+site:site.com (inurl:shell OR inurl:cmd OR inurl:sh OR inurl:root OR inurl:upload) (ext:php OR ext:asp OR ext:jsp)
+intitle:"Index of" "/.svn"
+inposttitle:"Name here"
+site.com employees target.com
+site.com content:"ssh"
+site:github.com ext:php "x-access-token"
+inurl:"/temp/" intitle:"Index of"
+inurl:"/download.php?file="
+related:eksempelside.no
+site:http://repl.it "keyword"
+inurl:password site.com
+site:github.com ext:php "api_key"
+filetype:sh inurl:"/cgi-bin/"
+site.com intitle:"password" 2021
+filetype:json inurl:"netrc"
+site:http://jsdelivr.net "keyword"
+Google Dork: inurl:"admin/login" site.com
+site.com index of: /config
+site.com intext:pass.txt
+"FirstName LastName" (site:nytimes.com OR site:washingtonpost.com OR site:vice.com OR site:theguardian.com OR "mentioned in" OR "featured in" OR "interviewed by")
+@LinkedIn Name Or Username
+intitle:"index of /" "aadhaar" intext:.jpeg
+-site.com "These are the paths and URLs to your SMF installation"
+filetype:xml inurl:"web_settings"
+ursearch:site:chat.whatsapp.com
+related:Name here
+cms +inurl:login +site.com
+site.com intext:"password" | intitle:"password"
+inurl:"/dropbox/" intitle:"Index of"
+intext:"company roadmap" filetype:pptx
+site:site.com (intext:"dummy data" OR intext:"sample data" OR intext:"test data" OR intext:"lorem ipsum" OR intext:"placeholders")
+site.com http intitle: admin
+inc/cmses/aedating4CMS.php?dir[inc]= inurl:flashchat site.com bp_ncom.php?bnrep=
+filetype:php -site.com intitle:phpinfo "published by the PHP Group"
+info:Name here
+site.com inurl:"login="
+inurl:"/vbulletin/"
+inurl:"/dev/" intitle:"Index of"
+site.com "rcon_password"
+inurl:"/webmail" intitle:"Roundcube"
+site:targetdomain.com (inurl:shell OR inurl:cmd OR inurl:sh OR inurl:root OR inurl:upload) (ext:php OR ext:asp OR ext:jsp)
+inurl:".firebaseio.com/.json"
+allinurl:eksempelside.no confidential
+site.com inurl:.gov | .mil | .edu
+filetype:rdp inurl:"/rdp_configs/"
+"CakeRoutingException" -site.com -site.com -site.com
+intitle:"login" site.com
+inurl:"/item.php?id="
+intitle:"index of /" "social security number"  inurl:upload
+inurl:login | inurl:signin | intitle:login | intitle:signin | inurl:secure site:example[.]com
+inurl:http://example.com "MYSQL_ROOT_PASSWORD:" ext:env OR ext:yml -git
+-site.com ext:tpl intext:"
+site:.site.com ext:pdf
+site:targetdomain.com (intext:"for internal use only" OR intext:"do not distribute" OR intext:"confidential" OR intext:"private API" OR intext:"private key" OR intext:"internal documentation")
+inurl:"/uploads/" intext:"Upload your file"
+intext:"social security number" filetype:pdf
+intitle:"index of" "parent directory" "desktop.ini" site.com
+site.com inurl:jboss filetype:log -github.com
+site.com ext:sql
+site.com intitle:login
+inurl:"/logs/" intext:"error log"
+inurl:http://example.com allintext:username,password filetype:log site:http://example.com "-----BEGIN RSA PRIVATE KEY-----" - inurl:id_rsa
+filetype:xls | xlsx intext:cisco -cisco.com site.com
+inurl:"/index.php?module="
+site.com intitle:"login"
+site: site.com intext: login
+site:eksempelside.no "powered by Apache"
+site.com cv Or resume OR curriculum vitae filetype:pdf OR doc
+site:targetdomain.com (inurl:old OR inurl:deprecated OR inurl:v1 OR inurl:v2 OR inurl:api/v1 OR inurl:legacy OR inurl:archive OR inurl:obsolete OR inurl:oldapi)
+filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES
+inurl:"/content.php?inc="
+site:target.com intitle:"phpinfo" intext:"HTTP_HOST"
+inurl:intranet site.com
+site:http://example.com ”choose file”
+inurl:"/backup.zip"
+site:site.com inurl:s3.amazonaws.com OR inurl:storage.googleapis.com OR inurl:azure OR inurl:openstack OR inurl:bucket OR intext:"bucket" OR intext:"s3://" OR intext:"gs://"
+inurl:"/redis-admin"
+cache:eksempelside.no
+inurl:"/remote/login" intitle:"Remote Access"
+inurl:"/archives/" ext:tar
+"Powered by Dudirectory" -site.com
+site:eksempelside.no inurl:admin
+inurl:vidyo -site.com inurl:portal
+inurl:"/viewimage.php?image="
+inurl:cmd | inurl:exec= | inurl:query= | inurl:code= | inurl:do= | inurl:run= | inurl:read= | inurl:ping= inurl:& site:http://example.com
+intitle:index.of cisco asa -site.com
+site.com inurl:sftp-config.json
+site.com intext:"index of" "shell"
+inurl:id= | inurl:pid= | inurl:category= | inurl:cat= | inurl:action= | inurl:sid= | inurl:dir= inurl:& site:http://example.com
+intitle:"Index of" "mysql.dump"
+inurl:"/config/credentials"
+site.com intitle:"index of" *.admin
+inurl:"/admin_panel/" -github
+Merak Mail Server Software" -.gov -.mil -.edu -site.com
+inurl:"/secret_files/" intitle:"Index of"
+"site.com " / " "
+site.com "ComputerName=" + "[Unattended] UnattendMode"
+site.com inurl:login "Admin"
+filetype:psafe3 inurl:"database"
+site:.site.com -site:www.site..com
+site.com content:"PEM"
+*."Name Or Username" (phone|contact|mobile|cell)
+inurl:haproxy-status site:example.com
+inurl:"/view.php?id="
+site:eksempelside.no filetype:pcap
+site.com -www.viewnetcam.com
+intitle:"Intelbras" site.com
+site:site.com (inurl:devtools OR inurl:debug OR inurl:console OR inurl:monitoring OR inurl:insights OR inurl:analytics) (intitle:"Developer Tools" OR intitle:"Debug Console" OR intitle:"Monitoring Dashboard" OR intext:"debug mode")
+inurl:"/.env" intext:"CLOUDINARY_URL"
+site.com intext:username | password | secret_key | token
+inurl:composer.json filetype:json -site.com
+site:eksempelside.no "default password"
+site:targetdomain.com (intext:"SQL syntax error" OR intext:"unexpected end of SQL" OR intext:"Warning: mysql_" OR intext:"MySQL server version" OR intext:"error in your SQL syntax" OR intext:"Invalid query" OR intext:"supplied argument is not a valid MySQL" OR intext:"Unclosed quotation mark after" OR intext:"Microsoft OLE DB Provider for SQL Server" OR intext:"java.sql.SQLException" OR intext:"Query failed" OR intext:"You have an error in your SQL syntax")
+site.com ext:cfm inurl:login.cfm
+inurl:"/secret.token"
+inurl:"/script" intitle:"Jenkins" "Manage Jenkins"
+"powered by dudownload" -site.com
+intext:"Roundcube Webmail" intitle:"Welcome to Roundcube Webmail" -site.com
+filetype:inc php -site.com -site.com
+site:site.com * inurl:"/view/view.shtml" OR inurl:"/view/index.shtml" OR inurl:"/view/viewer_index.shtml" OR inurl:"/view/viewer_frame.shtml" OR inurl:"axis-cgi/mjpg" OR inurl:"video.cgi" OR inurl:"mjpg.cgi" OR intitle:"Network Camera" 
+inurl:"/_cluster/health?pretty"
+intitle:"Index of" "shadow.bak"
+site:*.s3.amazonaws.com
+site.com password
+site:site.com (intitle:"index of /" OR intitle:"index of" OR inurl:ftp OR inurl:files OR inurl:backup OR inurl:documents OR inurl:uploads OR inurl:data OR inurl:content) -intext:"html" -intext:"javascript"
+Dudirectory" -site.com
+site:monolittenil.no intext: admin
+inurl:"/config.old"
+filetype:log inurl:"/logs/" intext:"password"
+intitle:"Index of" "customer_data"
+"FirstName LastName" (site:eventbrite.com OR site:meetup.com OR site:yelp.com OR "event location" OR "visited" OR "review")
+inurl:"/dbexport/" intitle:"Index of"
+site: com intext " organisation data" filetype:xls
+site:site.com (intext:"contact us" OR intext:"support" OR intext:"helpdesk" OR intext:"admin@site.com" OR intext:"@site.com")
+filetype:xml intext:"<authenticationMode>"
+site:.site.com intext:Login
+intitle:Linksys site.com
+inurl:"/assets/" intitle:"Index of"
+inurl:"/sso/login"
+site.com intitle:"login" -site.com
+site:eksempelside.no intext:@eksempelside.no
+@Medium Name Or Username
+site:trello.com inurl:"/b/" "internal use"
+person facebook.com 480x480
+intitle:Admin inurl:login.php site.com
+site.com intitle:email
+intext:"restricted" "do not share" filetype:pdf
+filetype:sql site:eksempelside.no
+site.com | .gov ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+filetype:ini inurl:"settings"
+site:linkedin.com Name Or Username
+site.com intext:"*@*.com:*"
+site.com ext:action build
+inurl:"/webmail/" intitle:"Mail - AfterLogic WebMail" -site.com -site.com
+intitle:"Index of" "mysql.tar.gz"
+site:testphp.vulnweb.com intext:"sql syntax near" OR intext:"syntax error" OR intext:"unexpected end of SQL" OR intext:"Warning: mysql_" OR intext:"pg_connect()" OR intext:"error in your SQL syntax" OR intext:"OLE DB Provider for SQL Server"
+inurl:"/logs/" intext:"Access Logs"
+"Fornavn Etternavn" (site:180.no OR site:1881.no OR site:gulesider.no OR site:proff.no) intext:"telefonnummer" OR intext:"adresse" OR intext:"kontaktnummer" OR intext:"bedrift"
+site.com intitle:index.of db
+inurl:"/showthread.php?t="
+filetype:key inurl:"ssh_host_"
+site:github.com ext:py "googleapis.com" "?key="
+inurl:"/h2-console"
+`site.no filetype
+site:targetdomain.com (inurl:config OR inurl:configuration OR inurl:settings OR inurl:setup OR inurl:env OR inurl:database OR inurl:docker OR inurl:kubernetes) (ext:xml OR ext:json OR ext:yaml OR ext:ini OR ext:env OR ext:conf OR ext:bak OR ext:cfg OR ext:properties)
+site.com inurl:sftp-config.json intext:/wp-content/
+site.com intitle:"Thank You For Your Order" intext:Click Here to Download
+inurl:"/article.php?id="
+site:github.com inurl:"known_hosts" "ssh-rsa"
+site.com intitle:"reset password"
+site.com intitle:"index of" /paypal
+inurl:url= | inurl:return= | inurl:next= | inurl:redirect= | inurl:redir= | inurl:ret= | inurl:r2= | inurl:page= inurl:& inurl:http site:[http://example.com](http://example.com/)
+inurl:"/core/install.php" "Drupal"
+s3 site.com intext:dhcp filetype:txt inurl:apollo
+intext:"password list" filetype:txt
+@Reddit Name Or Username
+ 
+inurl:"/user_data/" intitle:"Index of"
+site:example[.]com inurl:api | site:*/rest | site:*/v1 | site:*/v2 | site:*/v3
+"FirstName LastName" (site:researchgate.net OR site:academia.edu OR site:jstor.org OR "author" OR "researcher" OR "published by" OR "publication")
+intext:"internal memo" filetype:docx
+site:http://npm-runkit.com "keyword"
+intitle:"Lotus Domino Go Webserver:" "Tuning your webserver" -site.com
+site:.site.com inurl:? || inurl:&
+2. *."firstname lastname" (phone|contact|mobile|cell)
+"Fornavn Etternavn" ("+47 123 45 678" OR "(+47) 123-45-678" OR "telefonnummer" OR "kontaktinformasjon" OR "bedriftsadresse" OR "lokasjon" OR "adresse")
+intitle:"Django site admin" inurl:admin -site.com -site.com
+site:eksempelside.no inurl:wp-content/uploads/
+site.com inurl:admin
+filetype:sql insite.com && user
+filetype:kdb intext:"KeePass"
+.*\.google\.com
+intitle:"AppServ Open Project" -site.com
+intitle:osCommerce inurl:admin intext:"redistributable under the GNU"intext:"Online Catalog" -demo -site.com
+inurl:"/passwords/" ext:txt
+inurl:"/private_keys/" ext:key
+inurl:"port/6379" intext:"Redis"
+site.com "ID"
+site.com | .com | .net intitle:"index of" ftp
+inurl:"firebaseio.com" intext:"null" ext:json
+filetype:xml site:eksempelside.no
+"FirstName LastName" (ext:pdf OR ext:doc OR ext:docx OR ext:xls OR ext:xlsx OR ext:csv OR ext:zip OR "Resume" OR "Curriculum Vitae" OR "CV") intext:"location" OR intext:"address" OR intext:"coordinates"
+inurl:/about site.com
+site.com intext:User-agent:
+@Weibo Name Or Username
+inurl:"/env.bak"
+allinanchor:Name here
+"liveice configuration file" ext:cfg -site.com
+site.com inurl:.php?id=
+intitle:"irz" "router" intext:login gsm info -site.com -site.com
+site.com intitle:"Admin portal"
+inurl:test | inurl:env | inurl:dev | inurl:staging | inurl:sandbox | inurl:debug | inurl:temp | inurl:internal | inurl:demo site:[http://example.com](http://example.com/)
+filetype:conf inurl:"httpd.conf" intext:"AllowOverride"
+site.com intitle:index of ..................etcpasswd
+4. *."firstname lastname"
+"boarding pass" site.com
+ip:[IP-adresse]
+"powered by minibb" -site.com -intext:1.7f
+phpMyAdmin -www filetype:conf site.com
+intext:"confidential" "do not distribute" filetype:pdf
+intext:Name here (email | mail | tlf | @gmail.com | @)
+site:eksempelside.no inurl:login
+@Tumblr Name Or Username
+cms inurl:login site.com
+site:site.com (inurl:checkout OR inurl:payment OR inurl:cart OR inurl:order OR inurl:invoice) (intext:"credit card" OR intext:"secure payment" OR intext:"order confirmation")
+site.com inurl:login.jsp
+site.com intitle:"Account Access Help"
+inurl:"/dbadmin/" "Database Administration"
+intitle:"Index of" ".env"
+inurl:"/metadata/computeMetadata/v1/" "Metadata-Flavor: Google"
+intitle:"Sign in" site.com
+site.com "Sign in" "Matomo"
+inurl:"/redirect.php?url="
+inurl:"/api-docs/" intitle:"Swagger UI"
+inurl:"/database_backup/" intitle:"Index of"
+site.com intext:@gmail.com | @yahoo.com | @hotmail.com daterange:2457388-2457491
+inurl:"/calendar.ics"
+inurl:"/admin/login.php" intext:"Username"
+inurl:"/projects/" intitle:"Index of"
+site:targetdomain.com (intitle:"index of /" OR intitle:"index of" OR inurl:ftp OR inurl:files OR inurl:backup OR inurl:documents OR inurl:uploads OR inurl:data OR inurl:content) -intext:"html" -intext:"javascript"
+@Vimeo Name Or Username
+filetype:do inurl:"welcome"
+site.com intitle:index of
+site.com "password"
+inurl:"/checkout" intext:"Order Summary"
+"Fornavn Etternavn" (site:linkedin.com OR site:twitter.com OR site:facebook.com OR site:instagram.com OR site:github.com OR site:kvinneguiden.no OR site:diskusjon.no OR site:imgur.com OR site:reddit.com OR site:quora.com OR site:researchgate.net) -intitle:"profil" -inurl:"/profil" -inurl:"/tagged"
+inurl:"/config.old.php"
+"dudownload" -site.com
+site:targetdomain.com (inurl:devtools OR inurl:debug OR inurl:console OR inurl:monitoring OR inurl:insights OR inurl:analytics) (intitle:"Developer Tools" OR intitle:"Debug Console" OR intitle:"Monitoring Dashboard" OR intext:"debug mode")
+filetype:bak inurl:"backup_"
+site.com intitle:"index of" *.admin.password
+site:site.com (inurl:signup OR inurl:register OR inurl:createaccount OR inurl:join OR inurl:subscribe OR inurl:subscribe)
+site.com inurl:ShowMail.do
+@Discord Name Or Username
+site:targetdomain.com (intext:"error" OR intext:"warning" OR intext:"exception" OR intext:"fatal error" OR intext:"stack trace" OR intext:"debug" OR intext:"traceback" OR intext:"undefined" OR intext:"uncaught exception")
+inurl:/login.aspx site.com intitle:yönetim
+inurl:login.php site.com
+inurl:"/signup" intitle:"Create Account"
+*."Name Or Username"
+site:site.com (inurl:login OR inurl:admin OR inurl:signin OR inurl:signup OR inurl:register OR inurl:user OR inurl:account OR inurl:auth OR inurl:portal OR inurl:access)
+site:eksempelside.no intitle:"Login Page"
+site.com + keyword
+site:monolittenil.no intext: upload
+site.com inurl:"/modern/activity/"
+site:example.com inurl:api | inurl:rest
+site.com inurl:login.aspx
+site.com "*@gmail.com password"
+inurl:"/private_messages/" intitle:"Index of"
+filetype:txt intext:"access_token"
+site:target.com ext:pdf intext:invoice | intext:address
+inurl:"/admin_area/" intitle:"Control Panel"
+site:site.com (inurl:upload OR inurl:downloads OR inurl:filemanager OR inurl:uploads OR inurl:download) (intext:"upload your file" OR intext:"upload files" OR intext:"file manager")
+inurl:"/drive/folders/" site.com
+filetype:json intext:"\"secret\""
+filetype:db inurl:"webdata"
+inurl:"/jwt.key"
+inurl:"/dbconnect.php.bak"
+inposttitle:Name here
+inurl:2000 intitle:RemotelyAnywhere -site.com
+site.com inurl:files
+site.com inurl:callback
+site:targetdomain.com (inurl:js OR inurl:css OR inurl:src OR inurl:includes) (intext:"TODO" OR intext:"FIXME" OR intext:"HACK" OR intext:"password" OR intext:"token" OR intext:"api_key" OR intext:"secret")
+site.com inurl:("administrator/login.php" OR "admin/login.php")
+site.com "Log in to your account"
+intitle:"Index of" "*.conflict.*"
+inurl:"/graph" intitle:"Prometheus Time Series Collection and Processing Server"
+site.com intext:login
+site:site.com (inurl:js OR inurl:css OR inurl:src OR inurl:includes) (intext:"TODO" OR intext:"FIXME" OR intext:"HACK" OR intext:"password" OR intext:"token" OR intext:"api_key" OR intext:"secret")
+filetype:ps1 intext:"ConvertTo-SecureString"
+site:eksempelside.no intitle:kontakt
+inurl:"/tasks/" intitle:"To Do"
+filetype:txt intext:"dbpasswd"
+inurl:"/dynamodb/"
+inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:http://example.com
+site.com "Exec Configure"
+inurl:"/phpinfo.php" "PHP Version"
+intext:navn site:eksempelside.no
+intitle:index.of ios -site.com
+site:targetdomain.com (inurl:signup OR inurl:register OR inurl:createaccount OR inurl:join OR inurl:subscribe OR inurl:subscribe)
+inurl:CHANGELOG.txt intext:drupal intext:"SA-CORE" -intext:7.32 -site.com -site.com
+@WeChat Name Or Username
+inurl:"*.php?*=*.php" intext:"Warning: include" -inurl:.html -site.com -site.com -inurl:"*forums*"
+intext:"security clearance" filetype:pdf
+site:*http://atlassian.net "keyword"
+intitle:"LOGREP - Log file reporting system" -site.com
+intitle:"Index of" site.com
+site:*.dell.com (ext:doc OR ext:docx OR ext:odt OR ext:pdf OR ext:rtf OR ext:ppt OR ext:pptx OR ext:csv OR ext:xls OR ext:xlsx OR ext:txt OR ext:xml OR ext:json OR ext:zip OR ext:rar OR ext:md OR ext:log OR ext:bak OR ext:conf OR ext:sql)
+Fwd: site.com
+inurl:"/e107_admin/"
+filetype:php inurl:index inurl:phpicalendar -site.com
+intitle:"Index of" "web.config"
+inurl:"/db_backups/" intitle:"Index of"
+Copyright Huawei Technologies co. Ltd "Account" "Password" -site.com
+inurl:q= | inurl:s= | inurl:search= | inurl:query= | inurl:keyword= | inurl:lang= inurl:& site:http://example.com
+site:github.com ext:py "https://api-inference.huggingface.co/models" "Authorization: Bearer"
+site.com inurl:/wp-includes/
+inurl:"/keys/" ext:der
+Login Pages
+intitle:"index of /" "aadhaar" intext:.jpg
+(intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request" -topic -mail -4suite -list -site.com
+site.com intext:"login" intitle:"login"
+"inspanel" intitle:"login" -"cannot" "Login ID" -site.com
+intitle:"index of /" "passport"  inurl:uploads
+inurl:"/search" intext:"No results found"
+inurl:"/old_config/"
+inurl:"/confidential/" ext:docx
+inurl:"/php-pg-admin/" "PostgreSQL"
+site.com intitle:"Sign In"
+site.com ext:xls | ext:xlsx (login | password | username)
+site:http://trello.com "keyword"
+`site.no "feil"
+intext:"password" | "passwd" | "pwd" site.com
+site.com intitle:"UNMS"
+"inurl:"Umbraco/#/login" site.com
+team5 studio all rights reserved site.com
+inurl:"/index.php?catid="
+inurl:"/system/console"
+site.com intext:"SORRY!"
+"portailphp v1.3" inurl:"index.php?affiche" inurl:"PortailPHP" -site.com
+`site.no "deprecated"
+inurl:("administrator/login.aspx" OR "admin/login.aspx") +site.com
+@Twitter Name Or Username
+filetype:config "PostgreSQL"
+inurl:"/deployment_keys/" ext:pub
+"Name Or Username" *
+site.com + inurl:login.aspx | .asp | .html | .php | .htm
+intitle:"Index of" site.com intext:"Server at"
+inurl:"/encrypted/" ext:enc
+inurl:oraweb -site.com
+site.com filetype:pdf cv OR curriculum vitae OR resume
+"battlefield" "email" site.com
+site.com intitle:"index of" *.sql
+@WhatsApp Name Or Username
+inurl:github "keyword"
+filetype:inc intext:"password"
+site.com inurl:search
+site:*.example.com inurl:"/staff"
+inurl:"/wp-login.php?action=register"
+site.com intitle:"admin login"
+site.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+filetype:xml intext:"<secret"
+intitle:"Philex 0.2*" -script -site.com
+inurl:"/azurekeys" filetype:cfg
+inurl:"opac/login " site.com
+filetype:conf inurl:"nginx.conf"
+inurl:q= | inurl:s= | inurl:search= | inurl:query= | inurl:keyword= | inurl:lang= inurl:& site:[http://example.com](http://example.com/)
+@Dribbble Name Or Username
+site:http://sharecode.io "keyword"
+inurl:"/vault/secrets/" intitle:"Index of"
+inurl:cmd | inurl:exec= | inurl:query= | inurl:code= | inurl:do= | inurl:run= | inurl:read= | inurl:ping= inurl:& site:[http://example.com](http://example.com/)
+site:targetdomain.com (inurl:js OR ext:js) (intext:"var api_key" OR intext:"var token" OR intext:"const authToken" OR intext:"let password" OR intext:"const clientId" OR intext:"let secret")
+("powered by nocc" intitle:"NOCC Webmail") -site.com -Zoekinalles.nl -analysis
+1. "firstname lastname" (phone|contact|mobile|cell)
+filetype:json inurl:"secrets"
+site.com intitle:"index of" .env
+site:eksempelside.no intext:"password"
+intitle:ePMP 1000 intext:Log In -site.com -site.com
+site:eksempelside.no filetype:bak
+site.com inurl"/etc/passwd"
+filetype:yaml intext:"- secret:"
+inurl:glpi intitle:"GLPI" site.com
+site.com inurl: admin/index.php
+filetype:gitattributes intext:CHANGELOG.md -site.com
+inurl:apidocs | inurl:api-docs | inurl:swagger | inurl:api-explorer site:"http://example.com"
+10. related:"firstname lastname"*
+intitle:"RabbitMQ Management" inurl:"/#/login"
+filetype:pdf intext:"Fornavn Etternavn" intext:"koordinater" OR intext:"geotag" OR intext:"lokasjon" OR intext:"posisjon"
+inurl:"/public" intitle:"Index of"
+filetype:xml inurl:"pom.xml" intext:"<password>"
+inurl:"/sqlitebrowser"
+site:pastebin.com "private"
+adresse intext:navn
+site.com intitle:"index of" "screenshot*.jpg"
+inurl:adfs inurl:wctx inurl:wtrealm -site.com
+site:eksempelside.no inurl:"/phpmyadmin/"
+inurl:"/ssl_certs/" ext:crt
+inurl:"/tiki-index.php"
+inurl:"/test/cgi-bin/" intitle:"Index of"
+inurl:"/myadmin/"
+inurl:"/viewtopic.php?f="
+site.com intitle:"Account Suspended"
+"site: [linkedin.com](http://linkedin.com/) imagesize:100x100"
+inurl:/etc/clientlibs | inurl:/content/geometrixx | inurl:/bin/wcm | inurl:/crx/de site:http://example.com
+filetype:log inurl:"password.log"
+site.com + intext:"Open Redirect" + intext:"Unpatched"
+intitle:"index of /" "aadhaar" intext:.png
+site:targetdomain.com (inurl:github OR inurl:bitbucket OR inurl:gitlab OR inurl:svn OR inurl:source) (intext:"repository" OR intext:"src" OR intext:"source" OR intext:"fork me on GitHub" OR intext:"clone this repo")
+intitle:"web-cyradm"|"by Luc de Louw" "This is only for authorized users" -tar.gz -site.com
+intitle:"SOGo" site.com
+site:onedrive.live.com "personal" "documents"
+"bp blog admin" intitle:login | intitle:admin -site.com
+intext:"meeting minutes" filetype:pdf
+site:site.com (inurl:robots.txt OR inurl:sitemap.xml OR inurl:sitemap_index.xml OR inurl:admin-sitemap.xml OR inurl:internal-sitemap.xml)
+"Powered by sendcard - an advanced PHP e-card program" -site.com
+Name here AROUND(6)
+intitle:"admin console" inurl:login site.com -site.com -help -guide -documentation -release -notes -configure -support -price -cant
+site:targetdomain.com (inurl:login OR inurl:admin OR inurl:signin OR inurl:signup OR inurl:register OR inurl:user OR inurl:account OR inurl:auth OR inurl:portal OR inurl:access)
+inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:[http://example.com](http://example.com/)
+filetype:json "gcp_cloud"
+site:targetdomain.com inurl:s3.amazonaws.com OR inurl:storage.googleapis.com OR inurl:azure OR inurl:openstack OR inurl:bucket OR intext:"bucket" OR intext:"s3://" OR intext:"gs://"
+inurl:"/webdav/" intitle:"Index of"
+intitle:"Index of" "backup.bak"
+inurl:"/config_backup/"
+"DUpaypal" -site.com
+filetype:tar.gz inurl:"backup"
+inurl:"/configs/" ext:conf
+inurl:"error" | intitle:"exception" | intitle:"failure" | intitle:"server at" | inurl:exception | "database error" | "SQL syntax" | "undefined index" | "unhandled exception" | "stack trace" site:example[.]com
+"powered by duclassmate" -site.com
+site.com intext:Warning: mysql_fetch_array(): supplied argument is not a valid MySQL result resource in & “id”
+inurl:"/cgi-bin/" intext:"Test CGI"
+site.com inurl:"/modern/profile/"
+site.com intext:Username
+intext:"SECRET_KEY" ext|py inurl:mysite -site.com -site.com
+intitle:"Index of" ".git/config"
+"Powered by UebiMiau" -site.com
+8. inurl:linkedin.com/in firstname lastname
+"Duclassified" -site.com "DUware All Rights reserved"
+site:github.com ext:php "x_access_token"
+inurl:"/v1/containers/" "OpenStack"
+inurl:("admin/password.php") +site.com
+site:*.* testwebsite.com
+inurl:"/v2/_catalog"
+intitle:"index of /" "aadhaar"  inurl:upload
+intitle:"web-cyradm"|"by Luc de Louw" "This is only for authorized users" -tar.gz -site.com -johnny.ihackstuff
+site.com intext:"-----BEGIN RSA PRIVATE KEY-----"
+duclassmate" -site.com
+site:.site.com filetype:php
+site:targetdomain.com (ext:doc OR ext:docx OR ext:pdf OR ext:xls OR ext:xlsx OR ext:sql OR ext:xml OR ext:json OR ext:log OR ext:conf OR ext:bak OR ext:ini OR ext:env OR ext:yaml OR ext:md OR ext:csv OR ext:txt OR ext:msg OR ext:old)
+site:site.com (ext:doc OR ext:docx OR ext:pdf OR ext:xls OR ext:xlsx OR ext:sql OR ext:xml OR ext:json OR ext:log OR ext:conf OR ext:bak OR ext:ini OR ext:env OR ext:yaml OR ext:md OR ext:csv OR ext:txt OR ext:msg OR ext:old)
+inurl:*.* test person or number
+site:http://prezi.com "keyword"
+site:eksempelside.no inurl:id= OR inurl:login
+confidential site.com
+site.com intitle:"log in"
+inurl:http | inurl:url= | inurl:path= | inurl:dest= | inurl:html= | inurl:data= | inurl:domain= | inurl:page= inurl:& site:http://example.com
+site.com "admin password"
+@Behance Name Or Username
+intitle:"b2evo > Login form" "Login form. You must log in! You will have to accept cookies in order to log in" -demo -site.com
+site.com -inurl:"/nexus/content/"
+inurl:"/shop.php?pid="
+Duclassified" -site.com "DUware All Rights reserved"
+intitle:"index of /" "SSN"  inurl:upload
+intitle:"Index of" "ws_ftp.log"
+site.com inurl:/customer/portal/
+
+site:github.com "private repo"
+site.com intext:mysql AND intext:password -site.com -site.com
+site.com intitle:"404"
+site.com shared by
+site:http://codepad.co "keyword"
+inurl:"index.php" intext:"ApPHP Hotel Site" -site.com
+"1999-2004 FuseTalk Inc" -site.com
+intitle:"Index of" "mysql_data"
+"Fornavn Etternavn" (site:kvinneguiden.no OR site:diskusjon.no OR site:reddit.com OR site:quora.com OR "innlegg fra" OR "spørsmål fra" OR "nevnt i forum")
+inurl:include | inurl:dir | inurl:detail= | inurl:file= | inurl:folder= | inurl:inc= | inurl:locate= | inurl:doc= | inurl:conf= inurl:& site:http://example.com
+intext:"MaiLinX Alert (Notify)" -site.com
+filetype:json intext:"\"password\""
+site:eksempelside.no filetype:swf
+site.com intitle:"Ups Package tracking" intext:"1Z ### ### ## #### ### #"
+3. .*firstname lastname
+site:http://scribd.com "keyword"
+@Telegram Name Or Username
+link:eksempelside.no
+@YouTube Name Or Username
+inurl:"?db_backup" | inurl:"dbbackup" -site.com "sql.gz" | "sql.tgz" | "sql.tar" | "sql.7z"
+site:github.com ext:php "x_api_key"
+inurl:"/detail.php?id="
+s3 site.com filetype:xls password
+"FirstName.LastName@domain.com" OR "contact email" OR intext:"email address" + "FirstName LastName" OR intext:"@gmail.com" OR intext:"@hotmail.com" OR intext:"username"
+filetype:txt intext:"smtp_password"
+inurl:http://example.com ext:log
+inurl:"/login.seam"
+intitle:Index.of etc shadow site.com
+site.com inurl:d
+site.com intext:"Apache server status for"
+site.com ext:csv userid | username | user -example password
+intext:"AKIA" AND intext:"AWS"
+site:eksempelside.no ext:env
+filetype:action inurl:"struts2-showcase"
+site:[http://example.com](http://example.com/) ”choose file”
+inurl:lighttpd.conf lighttpd site.com
+site.com index of: manifest.xml
+@GitHub Name Or Username
+site:targetdomain.com (intext:"api_key" OR intext:"apiToken" OR intext:"access_token" OR intext:"auth_token" OR intext:"secret_key" OR intext:"AWS_ACCESS_KEY_ID" OR intext:"AWS_SECRET_ACCESS_KEY" OR intext:"Authorization: Bearer" OR intext:"firebaseApiKey" OR intext:"GCP_API_KEY" OR intext:"stripe_api_key" OR intext:"token")
+(intitle:"VisionGS Webcam Software")|(intext:"Powered by VisionGS Webcam") -showthread.php -showpost.php -"Search Engine" -computersglobal.com -site.com
+inurl:"blob.core.windows.net"
+"Powered by Duclassified" -site.com
+site.com -error
+"Powered by DMXReady Site Chassis Manager" -site.com
+inurl:"/app/kibana" intext:"Discover - Kibana"
+site:monolittenil.no intext: login
+filetype:log "Oracle"
+"Fornavn Etternavn" (ext:pdf OR ext:doc OR ext:docx OR ext:xls OR ext:xlsx OR ext:csv OR ext:zip OR "CV" OR "Curriculum Vitae") intext:"lokasjon" OR intext:"adresse" OR intext:"koordinater"
+intext:"network topology" filetype:vsd
+filetype:dat intext:"credentials"
+"powered by PhpBB 2.0.15" -site.com
+inurl:"/admin/login.html"
+inurl:http://example.com intitle:"index of" "config.db"
+site:target.com intitle:login | intitle:"sign in" | inurl:login
+filetype:txt site.com "secret" OR "authtoken"
+site.com intext:@gmail.com | Password
+site.com intext:root: & :0: & ::: | intitle:passwd | shadow
+inurl:"/aws/credentials" filetype:ini
+site.com viewanalytics
+inurl:"/admin_console" intitle:"Administration Console"
+inurl:"/dockerfiles/" intitle:"Index of"
+-site.com intext:"Scan coverage information" AND "List of tests" ext:PDF
+inurl:http://example.com intitle:"index of" ext:sql|xls|xml|json|csv
+inurl:"/remote/login"
+inurl:"/certs/" ext:cer
+site:*.gov "join.slack" ext:pdf "invite"
+intext:name here
+"Powered by PHP-Update" -site.com
+intitle:"Index of" "mongodb.conf"
+inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt -site.com
+site.com inurl:recording
+@Snapchat Name Or Username
+inurl:"/drafts/" intitle:"Index of"
+intitle:index of cv site.com
+site:http://gitter.im "keyword"
+site:github.com ext:php "x-api-token"
+site:github.com ext:php "api-key"
+"powered by ducalendar" -site.com
+inurl:"/_utils/" intext:"Welcome to CouchDB"
+site:eksempelside.no ext:sql "DROP TABLE"
+intext:"Powered by X-Cart: shopping cart software" -site.com
+inurl:"*admin|login" site: gov
+intitle:"Index of" ".history"
+inurl:"/containers/json" intext:"ApiVersion"
+filetype:p12 intext:"private"
+site.com intitle:"Login"
+site:targetdomain.com (inurl:reset OR inurl:forgotpassword OR inurl:recover OR inurl:passwordreset OR inurl:unlock) (intext:"recover your password" OR intext:"reset your password")
+site.com intext:"password"
+inurl:"/local.pem"
+intitle:"phpLiteAdmin" inurl:"phpliteadmin.php"
+intitle:"Index of" "passwd.bak"
+5. intext:"FirstName LastName"
+inurl:"/config.js" "firebase"
+site.com intitle:"User Authentication"
+"Fornavn Etternavn" (site:pastebin.com OR site:justpaste.it OR "*@gmail.com passord" OR "brukernavn:passord")
+intext:vmware virtual site.com filetype:xls | xlsx | doc | pdf
+site.com intext:password.txt
+inanchor:"Name here"
+inurl:travis.yml tornado site.com
+site:http://papaly.com "keyword"
+@Flickr Name Or Username
+"Please use Netscape 2.0 or enhance !!" -site.com -site.com
+intext:"Please log on to use the mikrotik hotspot service" intitle:"mikrotik hotspot >login" -github -site.com
+site.com inurl:admin login
+site.com intitle:(cv Or resume OR curriculum vitae)
+UebiMiau" -site.com
+@Quora Name Or Username
+filetype:cer inurl:"certificates"
+filetype:yaml inurl:"docker-compose.yml" intext:"password"
+site:site.com (intext:"error" OR intext:"warning" OR intext:"exception" OR intext:"fatal error" OR intext:"stack trace" OR intext:"debug" OR intext:"traceback" OR intext:"undefined" OR intext:"uncaught exception")
+inurl /admin/login intitle panel admin site.com
+site.com index.of: /android/manifest.xml
+inurl:"/index.php?open="
+site:site.com (intext:"api_key" OR intext:"apiToken" OR intext:"access_token" OR intext:"auth_token" OR intext:"secret_key" OR intext:"AWS_ACCESS_KEY_ID" OR intext:"AWS_SECRET_ACCESS_KEY" OR intext:"Authorization: Bearer" OR intext:"firebaseApiKey" OR intext:"GCP_API_KEY" OR intext:"stripe_api_key" OR intext:"token")
+allinurl:index.php?page= site.com
+intext:"Index of /" "bucket"
+inurl:"/admin/mysql"
+site.com inurl:login.php
+site:example.com ext:php | ext:log | ext:json
+intitle:"Welcome To Xitami" -site.com
+intitle:index.of inurl:grades site.com
+"Powered by FUDForum 2.7" -site.com -johnny.ihackstuff
+inurl:"/pgpass.conf"
+inurl:"/var/backups/" intitle:"Index of"
+site:github.com ext:py "ap-northeast-1.amazonaws.com" "x-api-key"
+inurl:"zendesk.com/attachments/token" site.com
+site.com edit
+inurl:"/parameters" intext:"AWS Systems Manager"
+site:target.com (ext:json | ext:log | ext:txt | ext:conf | ext:env)
+site.com intext:"Authorization Required"
+intitle:"index of /" "SSN"  inurl:documents
+site.com "sap netweaver portal"
+intext:"Resource dumped by" intext:jcr -site.com
+site.com index of /ftp/backup
+site.com intext:"administrator:500:"
+related:"Name Or Username"*
+site:site.com (inurl:phpmyadmin OR inurl:adminer OR inurl:dbadmin OR inurl:sql OR inurl:database OR inurl:db OR inurl:sql OR inurl:admin) (intext:"root" OR intext:"administrator" OR intext:"user" OR intext:"password")
+site:instagram.com "Name Or Username" -inurl:user
+inurl:"firebaseio.com"
+intitle:"ASP FileMan" Resend -site.com
+inurl:8080/view/viewer_index.shtml?id= -site.com
+@Instagram Name Or Username
+filetype:cfm inurl:"login"
+site.com intitle:"index of" /payments.txt
+inurl:"/backup_db/" intext:".sql"
+`site.no ext
+site.com responses
+site: site.com intext: admin
+site:linkedin.com/in/ "Name Or Username"
+site.com -site.com intitle:"::: Login :::"
+site.com intext:license key | expiration
+site:site.com (inurl:.git OR inurl:.svn OR inurl:gitlab OR inurl:github OR inurl:gitbucket OR inurl:bitbucket OR inurl:repo OR inurl:source) (ext:php OR ext:asp OR ext:jsp OR ext:js OR ext:py OR ext:rb OR ext:java OR ext:c OR ext:cpp)
+"Fornavn Etternavn" (site:vg.no OR site:aftenposten.no OR site:dagbladet.no OR site:digi.no OR site:medium.com OR "omtalt i" OR "sitat" OR "intervju")
+site:targetdomain.com (intitle:"Admin Console" OR intitle:"Dashboard" OR intitle:"Administrator" OR intitle:"Management Console" OR intitle:"System Settings" OR inurl:config OR inurl:manage OR inurl:adminpanel OR inurl:controlpanel)
+"LGD_CARDNUM" ext:log -site.com
+"duclassmate" -site.com
+site:eksempelside.no
+filetype:yaml intext:"secret_key_base"
+site.com inurl:.bash_history
+filetype:txt intext:"stripe_secret_key"
+allintitle:"Forum Post Assistant :" ext:php -site.com
+site.com intitle:"leak" | "breach" intext:"password" | "pw" | "pwd"
+inurl:"/product.php?id="
+DUpaypal" -site.com
+inurl:"/database_backup.sql"
+inurl:"/tree?"
+site:site.com (intext:"for internal use only" OR intext:"do not distribute" OR intext:"confidential" OR intext:"private API" OR intext:"private key" OR intext:"internal documentation")
+inurl:conf | inurl:env | inurl:cgi | inurl:bin | inurl:etc | inurl:root | inurl:sql | inurl:backup | inurl:admin | inurl:php site:example[.]com
+site.com admin grades
+intitle:"Dashboard [Jenkins]" "login" -"sign out"
+natterchat inurl:home.asp -site.com
+intitle:"oracle login" site.com
+inurl:"/backup.key"
+inurl:"/index.php?lang="
+*.* inurl:*.* Name Or Username
+filetype:env intext:"MAIL_PASSWORD"
+inurl:"/edituser.php"
+11. site:instagram.com "firstname lastname" -inurl:user
+inurl:"/product_info.php?products_id="
+"Dudirectory" -site.com
+@VK Name Or Username
+site.com "index of" error_logs
+"PHPWebAdmin for hMailServer" intitle:PHPWebAdmin -site.com
+"Retrieve Your Password" site.com
+(site.com | site.com | site.com | site.com | site.com | site.com
+site:linkedin.com "resigned from" "company"
+"FirstName LastName" (site:linkedin.com OR site:twitter.com OR site:facebook.com OR site:instagram.com OR site:github.com OR site:reddit.com OR site:researchgate.net OR site:quora.com OR site:imgur.com OR site:medium.com) -intitle:"profile" -inurl:"/profile" -inurl:"/tagged"
+site:*.* Name Or Username
+"Name Or Username" (phone|contact|mobile|cell)
+inurl:"/phpMyAdmin/" "Welcome to phpMyAdmin"
+filetype:conf intext:"passphrase"
+filetype:xls | xlsx intext:software license site.com
+site:site.com (ext:doc OR ext:docx OR ext:odt OR ext:pdf OR ext:rtf OR ext:ppt OR ext:pptx OR ext:csv OR ext:xls OR ext:xlsx OR ext:txt OR ext:xml OR ext:json OR ext:zip OR ext:rar OR ext:md OR ext:log OR ext:bak OR ext:conf OR ext:sql)
+site.com intext:Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in & “id”
+inurl:.php?=*php site.com
+site.com intitle:"index of" * resources
+intitle:"Index of" "config.dat"
+site.com intext:":aad3b435b51404eeaad3b435b51404ee:"
+site.com intitle:"index of" *shell.php
+@Twitch Name Or Username
+inurl:"/settings.py" intext:"AWS_ACCESS_KEY_ID"
+site.com inurl:b2blogin ext:cfm | jsp | php | aspx
+site:site.com (inurl:old OR inurl:deprecated OR inurl:v1 OR inurl:v2 OR inurl:api/v1 OR inurl:legacy OR inurl:archive OR inurl:obsolete OR inurl:oldapi)
+inurl:"/confidential/" intitle:"Index of"
+site:eksempelside.no filetype:pdf
+inurl:"/phpinfo.php" intext:"PHP Version"
+site:dropbox.com "shared folder"
+site: site.com intext: upload
+inurl:execute-api site.com
+inurl:"/blog.php?id="
+site:[http://example.com](http://example.com/) ext:php inurl:?
+intext:"merger and acquisition" filetype:ppt
+intitle:"index of" site.com
+"Powered by DUpaypal" -site.com
+@Pinterest Name Or Username
+inurl:include | inurl:dir | inurl:detail= | inurl:file= | inurl:folder= | inurl:inc= | inurl:locate= | inurl:doc= | inurl:conf= inurl:& site:[http://example.com](http://example.com/)
+site:docs.google.com "company salary"
+site:eksempelside.no "powered by Nginx"
+inurl:"/config/production.json" intext:"dbPassword"
+inurl:http://example.com intitle:"index of"
+inurl:"/forum.php?mod="
+site.com intext:username | password | SECRET_KEY
+site:github.com dork links
+site.com | site.com k=
+inurl:"/view/view.shtml" OR inurl:"/view/index.shtml" OR inurl:"/view/viewer_index.shtml" OR inurl:"/view/viewer_frame.shtml" OR inurl:"axis-cgi/mjpg" OR inurl:"video.cgi" OR inurl:"mjpg.cgi" OR intitle:"Network Camera" OR intitle:"IP Camera" OR intitle:"Axis Video Server"
+filetype:ini intext:"smtp_pass"
+site.com inurl:/admin/login
+site.com "*.pdf"
+site.com intext:"username"
+site:.site.com "invoice" "receipt" ext:pdf
+inurl:"/error" intext:"Stack Trace"
+inurl:"testsite.no" contact | gmail | phone | mail | email
+site.com inurl:forms | viewanalytics intext:see previous responses
+inurl:/login site.com
+.*Name Or Username
+inurl:"/old/" ext:zip
+site:site.com (inurl:backup OR inurl:bak OR inurl:old OR inurl:archive OR inurl:temp OR inurl:snapshot OR inurl:backup OR inurl:revisions OR inurl:autosave OR inurl:recovery) (ext:zip OR ext:rar OR ext:tar OR ext:gz OR ext:bak OR ext:old OR ext:tmp OR ext:sav)
+site:youtube.com "company town hall"
+"Fornavn Etternavn" (site:1881.no OR site:gulesider.no) intext:"adresse" OR intext:"kart" OR intext:"sted" OR intext:"posisjon"
+filetype:cfg intext:"api_token"
+inurl:"/user.php?id="

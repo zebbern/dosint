@@ -1,0 +1,96 @@
+"bp blog admin" intitle:login | intitle:admin -site.com
+"inspanel" intitle:"login" -"cannot" "Login ID" -site.com
+"inurl:"Umbraco/#/login" site.com
+Google Dork: inurl:"admin/login" site.com
+cms +inurl:login +site.com
+cms inurl:login site.com
+ext:asp "powered by DUForum" inurl:(messages|details|login|default|register) -site.com
+filetype:cfm inurl:"login"
+intext:"Please log on to use the mikrotik hotspot service" intitle:"mikrotik hotspot >login" -github -site.com
+intitle:"Dashboard [Jenkins]" "login" -"sign out"
+intitle:"RabbitMQ Management" inurl:"/#/login"
+intitle:"admin console" inurl:login site.com -site.com -help -guide -documentation -release -notes -configure -support -price -cant
+intitle:"admin login" site.com
+intitle:"irz" "router" intext:login gsm info -site.com -site.com
+intitle:"login" site.com
+intitle:"oracle login" site.com
+intitle:Admin inurl:login.php site.com
+inurl:"*admin|login" site: gov
+inurl:"/admin/login.html"
+inurl:"/admin/login.php" intext:"Username"
+inurl:"/login.action" intext:"Atlassian"
+inurl:"/login.seam"
+inurl:"/remote/login"
+inurl:"/remote/login" intitle:"Remote Access"
+inurl:"/sso/login"
+inurl:"/wp-login.php?action=register"
+inurl:"opac/login " site.com
+inurl:("administrator/login.aspx" OR "admin/login.aspx") +site.com
+inurl:.html.php:intext:"admin"|intext:"user"|intext:"login":site.com
+inurl:/login site.com
+inurl:/login.aspx site.com intitle:yönetim
+inurl:/login/index.jsp -site.com
+inurl:citrix inurl:login.asp -site.com
+inurl:login | inurl:signin | intitle:login | intitle:signin | inurl:secure site:example[.]com
+inurl:login.php site.com
+site.com + inurl:login.aspx | .asp | .html | .php | .htm
+site.com ext:cfm inurl:login.cfm
+site.com intext:"login" intitle:"login"
+site.com intext:"login" intitle:"server login"
+site.com intext:login
+site.com intitle:"admin login"
+site.com intitle:"login"
+site.com intitle:"login" -site.com
+site.com intitle:login
+site.com inurl: admin login
+site.com inurl:"login="
+site.com inurl:("administrator/login.php" OR "admin/login.php")
+site.com inurl:/admin/login
+site.com inurl:admin login
+site.com inurl:b2blogin ext:cfm | jsp | php | aspx
+site.com inurl:jira login
+site.com inurl:login
+site.com inurl:login "Admin"
+site.com inurl:login.action
+site.com inurl:login.aspx
+site.com inurl:login.jsp
+site.com inurl:login.php
+site: edu|org + inurl:"faculty_login.asp | .php"
+site: site.com intext: login
+site:.site.com (inurl:/signin OR inurl:/login OR inurl:/register)
+site:eksempelside.no inurl:id= OR inurl:login
+site:eksempelside.no inurl:login
+site:monolittenil.no intext: login
+site:site.com (inurl:login OR inurl:admin OR inurl:signin OR inurl:signup OR inurl:register OR inurl:user OR inurl:account OR inurl:auth OR inurl:portal OR inurl:access)
+site:target.com intitle:login | intitle:"sign in" | inurl:login
+site:targetdomain.com (inurl:login OR inurl:admin OR inurl:signin OR inurl:signup OR inurl:register OR inurl:user OR inurl:account OR inurl:auth OR inurl:portal OR inurl:access)
+inurl:portal/login intext:"access restricted" site:site.com
+inurl:dashboard/login site:site.com
+intitle:"user login" inurl:login site:site.com
+inurl:secure/login intitle:"login" site:site.com
+intitle:"admin access" inurl:admin/login site:site.com
+inurl:"/signin.html" intext:credentials site:site.com
+inurl:control/login site:site.com
+intitle:"dashboard access" inurl:login site:site.com
+inurl:auth inurl:secure site:site.com
+inurl:signin intext:"login" site:site.com
+intitle:"admin dashboard" inurl:login site:site.com
+inurl:myaccount/login site:site.com
+intitle:"admin login" inurl:admin site:site.com
+inurl:admin/authenticate site:site.com
+inurl:"/user/login" intext:"sign in" site:site.com
+inurl:manager/login intext:admin site:site.com
+intitle:"access portal" inurl:login site:site.com
+intitle:"authentication page" inurl:secure site:site.com
+inurl:staff/login intext:"user portal" site:site.com
+inurl:"/adminsignin" intitle:"login page" site:site.com
+intitle:"sign in" inurl:signin site:site.com
+inurl:admin/login site:site.com
+inurl:control/login.php intitle:"control panel" site:site.com
+inurl:login.html intext:admin site:site.com
+inurl:admin/login.php intext:"admin login" site:site.com
+intitle:"authentication portal" inurl:auth site:site.com
+intitle:"authentication required" inurl:login site:site.com
+inurl:"account/login" intitle:login site:site.com
+inurl:adminpanel/login site:site.com
+intitle:"restricted login" inurl:admin site:site.com

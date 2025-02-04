@@ -1,0 +1,153 @@
+"passport" filetype:xls site.com | site.com | site.com | site.com | site.com | site.com
+db_password filetype:env -site.com -git
+filetype:action inurl:"struts2-showcase"
+filetype:bak intext:"password"
+filetype:bak inurl:"*.bak"
+filetype:bak inurl:"/database/"
+filetype:bak inurl:"backup_"
+filetype:cer inurl:"certificates"
+filetype:cfg "couchdb"
+filetype:cfg intext:"api_token"
+filetype:cfg inurl:"proftpd.conf"
+filetype:cfm inurl:"login"
+filetype:cnf my.cnf -sample
+filetype:conf intext:"ldap_password"
+filetype:conf intext:"passphrase"
+filetype:conf intext:"redis_password"
+filetype:conf inurl:"httpd.conf" intext:"AllowOverride"
+filetype:conf inurl:"nginx.conf"
+filetype:config "PostgreSQL"
+filetype:dat intext:"credentials"
+filetype:db "sqlite"
+filetype:db inurl:"webdata"
+filetype:do inurl:"welcome"
+filetype:env intext:"MAIL_PASSWORD"
+filetype:gitattributes intext:CHANGELOG.md -site.com
+filetype:inc intext:"password"
+filetype:inc php -site.com -site.com
+filetype:ini intext:"aws_secret"
+filetype:ini intext:"smtp_pass"
+filetype:ini inurl:"config.ini" intext:"password"
+filetype:ini inurl:"settings"
+filetype:json "gcp_cloud"
+filetype:json intext:"\"password\""
+filetype:json intext:"\"secret\""
+filetype:json intext:"credentials"
+filetype:json inurl:"netrc"
+filetype:json inurl:"secrets"
+filetype:jsp inurl:"admin"
+filetype:kdb intext:"KeePass"
+filetype:key inurl:"ssh_host_"
+filetype:log "Oracle"
+filetype:log intext:"Authorization"
+filetype:log intext:"session_id"
+filetype:log inurl:"/logs/" intext:"password"
+filetype:log inurl:"password.log"
+filetype:ovpn intext:"<ca>"
+filetype:p12 intext:"private"
+filetype:pdf OR docx OR xls site:eksempelside.no
+filetype:pdf intext:"FirstName LastName" intext:"coordinates" OR intext:"geotag" OR intext:"location data" OR intext:"position"
+filetype:pdf intext:"Fornavn Etternavn" intext:"koordinater" OR intext:"geotag" OR intext:"lokasjon" OR intext:"posisjon"
+filetype:pem intext:"BEGIN DSA PRIVATE KEY"
+filetype:php -site.com intitle:phpinfo "published by the PHP Group"
+filetype:php inurl:index inurl:phpicalendar -site.com
+filetype:ppk intext:"PuTTY-User-Key-File-2"
+filetype:ps1 intext:"ConvertTo-SecureString"
+filetype:psafe3 inurl:"database"
+filetype:py inurl:"settings.py" intext:"SECRET_KEY"
+filetype:rdp inurl:"/rdp_configs/"
+filetype:sh intext:"password="
+filetype:sh inurl:"/cgi-bin/"
+filetype:sql "dump"
+filetype:sql insite.com && user
+filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES
+filetype:sql site.com and "insert into" admin "2014"
+filetype:sql site:eksempelside.no
+filetype:tar.gz inurl:"backup"
+filetype:txt intext:"access_token"
+filetype:txt intext:"dbpasswd"
+filetype:txt intext:"smtp_password"
+filetype:txt intext:"stripe_secret_key"
+filetype:txt inurl:"error.log"
+filetype:txt site.com "secret" OR "authtoken"
+filetype:xls | xlsx intext:cisco -cisco.com site.com
+filetype:xls | xlsx intext:software license site.com
+filetype:xml intext:"<authenticationMode>"
+filetype:xml intext:"<secret"
+filetype:xml inurl:"pom.xml" intext:"<password>"
+filetype:xml inurl:"web_settings"
+filetype:xml site:eksempelside.no
+filetype:yaml intext:"- secret:"
+filetype:yaml intext:"secret_key_base"
+filetype:yaml inurl:"docker-compose.yml" intext:"password"
+filetype:yml intext:"auth:"
+intext:"budget forecast" filetype:xls
+intext:"company roadmap" filetype:pptx
+intext:"confidential" "do not distribute" filetype:pdf
+intext:"credit card numbers" filetype:xlsx
+intext:"employee directory" filetype:xlsx
+intext:"internal memo" filetype:docx
+intext:"internal use only" filetype:xls
+intext:"meeting minutes" filetype:pdf
+intext:"merger and acquisition" filetype:ppt
+intext:"network topology" filetype:vsd
+intext:"password list" filetype:txt
+intext:"restricted" "do not share" filetype:pdf
+intext:"security clearance" filetype:pdf
+intext:"social security number" filetype:pdf
+intext:vmware virtual site.com filetype:xls | xlsx | doc | pdf
+inurl:"/aws/credentials" filetype:ini
+inurl:"/aws/credentials" filetype:txt
+inurl:"/azurekeys" filetype:cfg
+inurl:"/chatlogs/" filetype:txt
+inurl:"/dump" "MongoDB" filetype:json
+inurl:composer.json filetype:json -site.com
+inurl:http://example.com allintext:username,password filetype:log site:http://example.com "-----BEGIN RSA PRIVATE KEY-----" - inurl:id_rsa
+phpMyAdmin -www filetype:conf site.com
+s3 site.com filetype:log
+s3 site.com filetype:sql
+s3 site.com filetype:xls login
+s3 site.com filetype:xls password
+s3 site.com intext:dhcp filetype:txt inurl:apollo
+site.com "rfp" filetype:pdf
+site.com cv Or resume OR curriculum vitae filetype:pdf OR doc
+site.com filetype:md | filetype:js | filetype:txt "xoxp-"
+site.com filetype:pdf cv OR curriculum vitae OR resume
+site.com inurl:jboss filetype:log -github.com
+site: com intext " organisation data" filetype:xls
+site:.site.com filetype:php
+site:eksempelside.no filetype:bak
+site:eksempelside.no filetype:pcap
+site:eksempelside.no filetype:pdf
+site:eksempelside.no filetype:swf
+site:eksempelside.no filetype:xlsx OR xls
+filetype:pdf intext:"confidential" site:site.com
+filetype:txt inurl:password site:site.com
+filetype:log inurl:errors site:site.com
+filetype:env intext:"DB_PASSWORD" site:site.com
+filetype:json inurl:config site:site.com
+filetype:xml intext:"<password>" site:site.com
+filetype:sql inurl:backup site:site.com
+filetype:csv intext:"username,password" site:site.com
+filetype:xls intext:"credit card" site:site.com
+filetype:xlsx intext:"employee data" site:site.com
+filetype:cfg inurl:settings site:site.com
+filetype:ini inurl:config site:site.com
+filetype:php inurl:backup site:site.com
+filetype:yaml intext:"api_key" site:site.com
+filetype:rb intext:"database password" site:site.com
+filetype:log intext:"exception" site:site.com
+filetype:conf intext:"admin" site:site.com
+filetype:dat intext:"account details" site:site.com
+filetype:db intext:"user credentials" site:site.com
+filetype:bak intext:"backup" site:site.com
+filetype:sh intext:"root" site:site.com
+filetype:bat intext:"admin" site:site.com
+filetype:doc intext:"internal use only" site:site.com
+filetype:docx inurl:confidential site:site.com
+filetype:ppt intext:"strategy plan" site:site.com
+filetype:pptx intext:"roadmap" site:site.com
+filetype:zip intext:"secure" site:site.com
+filetype:rar intext:"private" site:site.com
+filetype:tar.gz intext:"backup" site:site.com
+filetype:7z inurl:secret site:site.com

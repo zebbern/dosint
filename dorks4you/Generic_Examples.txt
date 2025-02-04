@@ -1,0 +1,61 @@
+inurl:/content/usergenerated | inurl:/content/dam | inurl:/jcr:content | inurl:/libs/granite | inurl:/etc/clientlibs | inurl:/content/geometrixx | inurl:/bin/wcm | inurl:/crx/de site:http://example.com/
+inurl:/etc/clientlibs | inurl:/content/geometrixx | inurl:/bin/wcm | inurl:/crx/de site:http://example.com
+inurl:apidocs | inurl:api-docs | inurl:swagger | inurl:api-explorer site:"[http://example.com http://example.com/
+inurl:apidocs | inurl:api-docs | inurl:swagger | inurl:api-explorer site:"http://example.com"
+inurl:cmd | inurl:exec= | inurl:query= | inurl:code= | inurl:do= | inurl:run= | inurl:read= | inurl:ping= inurl:& site:http://example.com/
+inurl:cmd | inurl:exec= | inurl:query= | inurl:code= | inurl:do= | inurl:run= | inurl:read= | inurl:ping= inurl:& site:http://example.com
+inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:http://example.com/
+inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:http://example.com
+inurl:haproxy-status site:example.com
+inurl:http | inurl:url= | inurl:path= | inurl:dest= | inurl:html= | inurl:data= | inurl:domain= | inurl:page= inurl:& site:http://example.com/
+inurl:http | inurl:url= | inurl:path= | inurl:dest= | inurl:html= | inurl:data= | inurl:domain= | inurl:page= inurl:& site:http://example.com
+inurl:http://example.com allintext:username,password filetype:log site:http://example.com "-----BEGIN RSA PRIVATE KEY-----" - inurl:id_rsa
+inurl:id= | inurl:pid= | inurl:category= | inurl:cat= | inurl:action= | inurl:sid= | inurl:dir= inurl:& site:http://example.com/
+inurl:id= | inurl:pid= | inurl:category= | inurl:cat= | inurl:action= | inurl:sid= | inurl:dir= inurl:& site:http://example.com
+inurl:include | inurl:dir | inurl:detail= | inurl:file= | inurl:folder= | inurl:inc= | inurl:locate= | inurl:doc= | inurl:conf= inurl:& site:http://example.com/
+inurl:include | inurl:dir | inurl:detail= | inurl:file= | inurl:folder= | inurl:inc= | inurl:locate= | inurl:doc= | inurl:conf= inurl:& site:http://example.com
+inurl:q= | inurl:s= | inurl:search= | inurl:query= | inurl:keyword= | inurl:lang= inurl:& site:http://example.com/
+inurl:q= | inurl:s= | inurl:search= | inurl:query= | inurl:keyword= | inurl:lang= inurl:& site:http://example.com
+inurl:test | inurl:env | inurl:dev | inurl:staging | inurl:sandbox | inurl:debug | inurl:temp | inurl:internal | inurl:demo site:http://example.com/
+inurl:test | inurl:env | inurl:dev | inurl:staging | inurl:sandbox | inurl:debug | inurl:temp | inurl:internal | inurl:demo site:http://example.com
+inurl:url= | inurl:return= | inurl:next= | inurl:redirect= | inurl:redir= | inurl:ret= | inurl:r2= | inurl:page= inurl:& inurl:http site:http://example.com/
+inurl:url= | inurl:return= | inurl:next= | inurl:redirect= | inurl:redir= | inurl:ret= | inurl:r2= | inurl:page= inurl:& inurl:http site:http://example.com
+site:*.example.com inurl:"/staff"
+site:http://example.com/
+site:http://example.com/ ext:php inurl:?
+site:http://example.com/ ”choose file”
+site:example.com ext:php | ext:log | ext:json
+site:example.com inurl:api | inurl:rest
+site:http://example.com ext:txt | ext:pdf | ext:xml | ext:xls | ext:xlsx | ext:ppt | ext:pptx | ext:doc | ext:docx intext:“confidential” | intext:“Not for Public Release” | intext:”internal use only” | intext:“do not distribute”
+site:http://example.com ”choose file”
+inurl:q= | inurl:search= | inurl:query= site:example.com
+site:site.com filetype:pdf intext:"confidential"
+site:site.com filetype:doc intext:"internal use only"
+site:site.com filetype:txt intext:"password"
+site:site.com filetype:csv intext:"username,password"
+site:site.com filetype:log intext:"error"
+site:site.com filetype:env intext:"DB_PASSWORD"
+site:site.com filetype:json inurl:config
+site:site.com filetype:xml intext:"<password>"
+site:site.com inurl:backup intext:"database"
+site:site.com inurl:private intext:"sensitive"
+site:site.com inurl:data intext:"restricted access"
+site:site.com inurl:docs intext:"draft version"
+site:site.com inurl:logs intext:"debugging"
+site:site.com inurl:tmp intext:"temporary files"
+site:site.com inurl:scripts intext:"api key"
+site:site.com inurl:archive intext:"classified"
+site:site.com intext:"confidential information"
+site:site.com intext:"internal memo"
+site:site.com intext:"not for distribution"
+site:site.com inurl:ftp intext:"secure"
+site:site.com filetype:xlsx intext:"financial reports"
+site:site.com filetype:xls intext:"budget forecast"
+site:site.com filetype:dat intext:"account details"
+site:site.com filetype:db intext:"credentials"
+site:site.com filetype:cfg intext:"configuration settings"
+site:site.com filetype:ini intext:"server settings"
+site:site.com filetype:sh intext:"admin access"
+site:site.com filetype:bat intext:"automation script"
+site:site.com filetype:yaml intext:"keys"
+site:site.com filetype:zip intext:"compressed backup"

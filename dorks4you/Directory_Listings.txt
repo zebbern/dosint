@@ -1,0 +1,70 @@
+intitle:"index of /" "SSN"  inurl:documents
+intitle:"index of /" "SSN"  inurl:private
+intitle:"index of /" "SSN"  inurl:upload
+intitle:"index of /" "aadhaar"  inurl:upload
+intitle:"index of /" "aadhaar" intext:.jpeg
+intitle:"index of /" "aadhaar" intext:.jpg
+intitle:"index of /" "aadhaar" intext:.png
+intitle:"index of /" "passport"  inurl:uploads
+intitle:"index of /" "social security number"  inurl:upload
+intitle:"index of /.git”
+intitle:"index of" "parent directory" "desktop.ini" site.com
+intitle:"index of" "redis.conf"
+intitle:"index of" inurl:ftp
+intitle:"index of" site.com
+intitle:index of cv site.com
+inurl:/database* ext:sql intext:index of -site.com
+inurl:http://example.com intitle:"index of /" "*key.pem"
+inurl:http://example.com intitle:"index of"
+inurl:http://example.com intitle:"index of" "config.db"
+inurl:http://example.com intitle:"index of" ext:sql|xls|xml|json|csv
+site.com intext:"index of" "logs"
+site.com intext:"index of" "payroll"
+site.com intext:"index of" "shell"
+site.com intitle:"index of"
+site.com intitle:"index of" "screenshot*.jpg"
+site.com intitle:"index of" * resources
+site.com intitle:"index of" *.admin
+site.com intitle:"index of" *.admin.password
+site.com intitle:"index of" *.db
+site.com intitle:"index of" *.sql
+site.com intitle:"index of" *shell.php
+site.com intitle:"index of" .env
+site.com intitle:"index of" /ipa
+site.com intitle:"index of" /payments.txt
+site.com intitle:"index of" /paypal
+site.com intitle:index of
+site.com intitle:index of ..................etcpasswd
+site.com | .com | .net intitle:"index of" ftp
+site:site.com (intitle:"index of /" OR intitle:"index of" OR inurl:ftp OR inurl:files OR inurl:backup OR inurl:documents OR inurl:uploads OR inurl:data OR inurl:content) -intext:"html" -intext:"javascript"
+site:targetdomain.com (intitle:"index of /" OR intitle:"index of" OR inurl:ftp OR inurl:files OR inurl:backup OR inurl:documents OR inurl:uploads OR inurl:data OR inurl:content) -intext:"html" -intext:"javascript"
+intitle:"index of /" "passwords" inurl:backup
+intitle:"index of /" "credit card" inurl:database
+intitle:"index of /" "secret keys" inurl:keys
+intitle:"index of /" "private key" intext:RSA
+intitle:"index of /" "ssn" inurl:secure
+intitle:"index of /" "id cards" inurl:uploads
+intitle:"index of /" "bank statements" inurl:documents
+intitle:"index of /" "passport" intext:.pdf
+intitle:"index of /" "license" inurl:private
+intitle:"index of /" "id numbers" intext:.csv
+intitle:"index of /" "config files" inurl:config
+intitle:"index of /" "application logs" intext:logs
+intitle:"index of /" "error logs" inurl:errors
+intitle:"index of /" "user data" inurl:data
+intitle:"index of /" "confidential" inurl:secure
+intitle:"index of /" "backup" intext:database
+intitle:"index of /" "photos" inurl:private
+intitle:"index of /" "videos" intext:uploads
+intitle:"index of /" "source code" inurl:src
+intitle:"index of /" "configurations" intext:config
+intitle:"index of /" "private" intext:.zip
+intitle:"index of /" "document" inurl:docs
+intitle:"index of /" "sensitive" intext:files
+intitle:"index of /" "personal" inurl:info
+intitle:"index of /" "database" intext:.sql
+intitle:"index of /" "log files" inurl:logs
+intitle:"index of /" "ftp files" inurl:ftp
+intitle:"index of /" "shell access" intext:shell
+intitle:"index of /" "temporary" inurl:tmp
+intitle:"index of /" "server backup" inurl:backup

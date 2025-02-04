@@ -1,0 +1,88 @@
+/inurl:upload site.com ~password
+allinurl:eksempelside.no confidential
+ext:txt | ext:pdf | ext:xml | ext:xls | ext:xlsx | ext:ppt | ext:pptx | ext:doc | ext:docx intext:“confidential” | intext:“Not for Public Release” | intext:”internal use only” | intext:“do not distribute”
+filetype:bak intext:"password"
+filetype:conf intext:"ldap_password"
+filetype:conf intext:"redis_password"
+filetype:inc intext:"password"
+filetype:ini inurl:"config.ini" intext:"password"
+filetype:json intext:"\"password\""
+filetype:log inurl:"/logs/" intext:"password"
+filetype:log inurl:"password.log"
+filetype:sh intext:"password="
+filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES
+filetype:txt intext:"smtp_password"
+filetype:xml inurl:"pom.xml" intext:"<password>"
+filetype:yaml inurl:"docker-compose.yml" intext:"password"
+intext:"confidential" "do not distribute" filetype:pdf
+intext:"confidential" "financial results"
+intext:"password list" filetype:txt
+intext:"password" | "passwd" | "pwd" site.com
+inurl:"/confidential/" ext:docx
+inurl:"/confidential/" intitle:"Index of"
+inurl:"/forgot_password" intext:"Reset Password"
+inurl:"/passwords/" ext:txt
+inurl:("admin/password.php") +site.com
+inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:http://example.com
+inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:http://example.com
+inurl:http://example.com allintext:username,password filetype:log site:http://example.com "-----BEGIN RSA PRIVATE KEY-----" - inurl:id_rsa
+inurl:https://trello.com AND intext:@gmail.com AND intext:password
+inurl:password site.com
+site.com intext:"password"
+site.com intext:"password" | intitle:"password"
+site.com intext:"unattend xmlns" AND "password" ext:xml
+site.com intext:admin.password
+site.com intext:mysql AND intext:password -site.com -site.com
+site.com intext:password intext:@gmail.com | @yahoo.com | @hotmail.com
+site.com intext:password.txt
+site.com intext:username | password | SECRET_KEY
+site.com intext:username | password | secret_key | token
+site.com intitle:"index of" *.admin.password
+site.com intitle:"leak" | "breach" intext:"password" | "pw" | "pwd"
+site.com intitle:"password" 2021
+site.com intitle:"reset password"
+site:eksempelside.no intext:"password"
+site:eksempelside.no intext:"username" intext:"password"
+site:http://example.com ext:txt | ext:pdf | ext:xml | ext:xls | ext:xlsx | ext:ppt | ext:pptx | ext:doc | ext:docx intext:“confidential” | intext:“Not for Public Release” | intext:”internal use only” | intext:“do not distribute”
+site:site.com (intext:"confidential" OR intext:"internal use only" OR intext:"do not share" OR intext:"for employees only" OR intext:"restricted access" OR intext:"proprietary information")
+site:site.com (intext:"for internal use only" OR intext:"do not distribute" OR intext:"confidential" OR intext:"private API" OR intext:"private key" OR intext:"internal documentation")
+site:site.com (inurl:js OR ext:js) (intext:"var api_key" OR intext:"var token" OR intext:"const authToken" OR intext:"let password" OR intext:"const clientId" OR intext:"let secret")
+site:site.com (inurl:js OR inurl:css OR inurl:src OR inurl:includes) (intext:"TODO" OR intext:"FIXME" OR intext:"HACK" OR intext:"password" OR intext:"token" OR intext:"api_key" OR intext:"secret")
+site:site.com (inurl:phpmyadmin OR inurl:adminer OR inurl:dbadmin OR inurl:sql OR inurl:database OR inurl:db OR inurl:sql OR inurl:admin) (intext:"root" OR intext:"administrator" OR intext:"user" OR intext:"password")
+site:site.com (inurl:reset OR inurl:forgotpassword OR inurl:recover OR inurl:passwordreset OR inurl:unlock) (intext:"recover your password" OR intext:"reset your password")
+site:targetdomain.com (intext:"confidential" OR intext:"internal use only" OR intext:"do not share" OR intext:"for employees only" OR intext:"restricted access" OR intext:"proprietary information")
+site:targetdomain.com (intext:"for internal use only" OR intext:"do not distribute" OR intext:"confidential" OR intext:"private API" OR intext:"private key" OR intext:"internal documentation")
+site:targetdomain.com (inurl:js OR ext:js) (intext:"var api_key" OR intext:"var token" OR intext:"const authToken" OR intext:"let password" OR intext:"const clientId" OR intext:"let secret")
+site:targetdomain.com (inurl:js OR inurl:css OR inurl:src OR inurl:includes) (intext:"TODO" OR intext:"FIXME" OR intext:"HACK" OR intext:"password" OR intext:"token" OR intext:"api_key" OR intext:"secret")
+site:targetdomain.com (inurl:phpmyadmin OR inurl:adminer OR inurl:dbadmin OR inurl:sql OR inurl:database OR inurl:db OR inurl:sql OR inurl:admin) (intext:"root" OR intext:"administrator" OR intext:"user" OR intext:"password")
+site:targetdomain.com (inurl:reset OR inurl:forgotpassword OR inurl:recover OR inurl:passwordreset OR inurl:unlock) (intext:"recover your password" OR intext:"reset your password")
+intext:"crypto_key" site:site.com
+intext:"user_session_key" filetype:yaml site:site.com
+intext:"payment_processor_key" site:site.com
+intext:"api_private_key" filetype:xml site:site.com
+intext:"ldap_bind_password" site:site.com
+intext:"password" filetype:txt site:site.com
+intext:"database_admin_password" site:site.com
+intext:"superuser_password" filetype:txt site:site.com
+intext:"ssl_key" filetype:crt site:site.com
+intext:"admin_token" filetype:yaml site:site.com
+intext:"root_password" filetype:ini site:site.com
+intext:"ssh_key" filetype:pub site:site.com
+intext:"encryption_key" filetype:txt site:site.com
+intext:"secret_token" site:site.com
+intext:"private_key" filetype:pem site:site.com
+intext:"api_token" filetype:env site:site.com
+intext:"api_secret" filetype:cfg site:site.com
+intext:"jwt_secret" filetype:json site:site.com
+intext:"login" filetype:sql site:site.com
+intext:"auth_key" filetype:env site:site.com
+intext:"azure_secret" site:site.com
+intext:"access_key" filetype:json site:site.com
+intext:"s3_bucket_key" site:site.com
+intext:"ftp_login" filetype:log site:site.com
+intext:"master_key" site:site.com
+intext:"gcp_key" site:site.com
+intext:"token_secret" filetype:ini site:site.com
+intext:"password_hash" filetype:db site:site.com
+intext:"oauth_token" filetype:xml site:site.com
+intext:"github_secret" filetype:cfg site:site.com
