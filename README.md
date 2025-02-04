@@ -15,6 +15,7 @@ It streamlines information discovery through Google, SCADA-focused queries, Tor 
 - **Python 3.8+**
 - Install dependencies:
   ```bash
+  git clone https://github.com/zebbern/dosint.git
   pip install -r requirements.txt
   ```
 - *(Optional)* Tor must be running locally on port **9050** if using Tor mode.
