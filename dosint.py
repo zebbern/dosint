@@ -34,7 +34,7 @@ BANNER = f""" {BLUE}|- {WHITE}{BOLD}python main.py [OPTIONS]{GREEN}
  ║ {YELLOW}-t{BLUE} |{CYAN} Dorking via Tor (port 9050){GREEN}      ║
  ╚═══════════════════════════════════════╝
  
- {BLUE}|- python main.py -p -b
+ {BLUE}|- python main.py -p -g
  {WHITE}To Use Proxies Meanwhile Dorking{RESET}"""
 
 parser = argparse.ArgumentParser(
