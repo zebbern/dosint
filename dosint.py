@@ -23,7 +23,7 @@ UNDERLINE = "\033[4m"
 
 
 # Your custom banner (which can also serve as your help message)
-BANNER = f""" {BLUE}|- {WHITE}{BOLD}python main.py [OPTIONS]{GREEN}
+BANNER = f""" {BLUE}|- {YELLOW}{BOLD}Created by github.com/zebbern{GREEN}
  ╔═══════════════════════════════════════╗
  ║ {YELLOW}-g{BLUE} |{CYAN} Dorking via Google{GREEN}               ║
  ║                                       ║
