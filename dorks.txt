@@ -1,2 +1,2 @@
-site:monolittenil.no
-inurl:monolittenil.no
+site:example.com
+inurl:example.com
